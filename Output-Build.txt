@@ -1,0 +1,4 @@
+﻿Rebuild started...
+1>------ Rebuild All started: Project: NumberProcessorReEdited, Configuration: Release Any CPU ------
+1>  NumberProcessorReEdited -> E:\NumberProcessorRe-Edited_VeryOld_SafeKeeping2019\NumberProcessor\bin\Debug\NewRegeim12-2020\NumberProcessor.exe
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========

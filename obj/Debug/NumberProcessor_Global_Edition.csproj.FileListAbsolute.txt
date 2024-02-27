@@ -25,3 +25,14 @@ G:\OneDrive\Desktop\NumberProcessor_International_Edition\NumberProcessor_Intern
 G:\OneDrive\Desktop\NumberProcessor_International_Edition\NumberProcessor_International\bin\Debug\NumberProcessor.exe.config
 G:\OneDrive\Desktop\NumberProcessor_International_Edition\NumberProcessor_International\bin\Debug\NumberProcessor.exe
 G:\OneDrive\Desktop\NumberProcessor_International_Edition\NumberProcessor_International\bin\Debug\NumberProcessor.pdb
+G:\OneDrive\Desktop\New folder (2)\PPHNumberProcessor\bin\Debug\NumberProcessor.exe.config
+G:\OneDrive\Desktop\New folder (2)\PPHNumberProcessor\bin\Debug\NumberProcessor.exe
+G:\OneDrive\Desktop\New folder (2)\PPHNumberProcessor\bin\Debug\NumberProcessor.pdb
+G:\OneDrive\Desktop\New folder (2)\PPHNumberProcessor\obj\Debug\NumberProcessor_Global_Edition.csproj.AssemblyReference.cache
+G:\OneDrive\Desktop\New folder (2)\PPHNumberProcessor\obj\Debug\NumberProcessor_Global_2022.FrmDialog.resources
+G:\OneDrive\Desktop\New folder (2)\PPHNumberProcessor\obj\Debug\NumberProcessor_Global_2022.FrmMain.resources
+G:\OneDrive\Desktop\New folder (2)\PPHNumberProcessor\obj\Debug\NumberProcessor.Properties.Resources.resources
+G:\OneDrive\Desktop\New folder (2)\PPHNumberProcessor\obj\Debug\NumberProcessor_Global_Edition.csproj.GenerateResource.cache
+G:\OneDrive\Desktop\New folder (2)\PPHNumberProcessor\obj\Debug\NumberProcessor_Global_Edition.csproj.CoreCompileInputs.cache
+G:\OneDrive\Desktop\New folder (2)\PPHNumberProcessor\obj\Debug\NumberProcessor.exe
+G:\OneDrive\Desktop\New folder (2)\PPHNumberProcessor\obj\Debug\NumberProcessor.pdb

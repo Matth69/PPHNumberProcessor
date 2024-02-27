@@ -360,20 +360,14 @@ namespace NumberProcessor_Global_2022
             this.txtGroupMemC9G2 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC14G1 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC6G1 = new System.Windows.Forms.TextBox();
-            this.label49 = new System.Windows.Forms.Label();
-            this.label41 = new System.Windows.Forms.Label();
             this.txtGroupMemC3G2 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC17G1 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC9G1 = new System.Windows.Forms.TextBox();
-            this.label48 = new System.Windows.Forms.Label();
-            this.label35 = new System.Windows.Forms.Label();
             this.txtGroupMemC19G7 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC19G5 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC11G7 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC11G5 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC3G1 = new System.Windows.Forms.TextBox();
-            this.label47 = new System.Windows.Forms.Label();
-            this.label40 = new System.Windows.Forms.Label();
             this.txtGroupMemC13G7 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC13G5 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC5G7 = new System.Windows.Forms.TextBox();
@@ -382,7 +376,6 @@ namespace NumberProcessor_Global_2022
             this.txtGroupMemC19G4 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC11G6 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC11G4 = new System.Windows.Forms.TextBox();
-            this.label13 = new System.Windows.Forms.Label();
             this.txtGroupMemC16G7 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC16G5 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC8G7 = new System.Windows.Forms.TextBox();
@@ -416,27 +409,20 @@ namespace NumberProcessor_Global_2022
             this.txtGroupMemC8G2 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC13G1 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC5G1 = new System.Windows.Forms.TextBox();
-            this.label46 = new System.Windows.Forms.Label();
-            this.label39 = new System.Windows.Forms.Label();
             this.txtGroupMemC2G2 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC16G1 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC8G1 = new System.Windows.Forms.TextBox();
-            this.label45 = new System.Windows.Forms.Label();
-            this.label34 = new System.Windows.Forms.Label();
             this.txtGroupMemC18G7 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC18G5 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC10G7 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC10G5 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC2G1 = new System.Windows.Forms.TextBox();
-            this.label44 = new System.Windows.Forms.Label();
-            this.label38 = new System.Windows.Forms.Label();
             this.txtGroupMemC4G7 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC4G5 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC15G7 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC15G5 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC7G7 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC7G5 = new System.Windows.Forms.TextBox();
-            this.label12 = new System.Windows.Forms.Label();
             this.txtGroupMemC18G6 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC18G4 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC10G6 = new System.Windows.Forms.TextBox();
@@ -470,17 +456,11 @@ namespace NumberProcessor_Global_2022
             this.label9 = new System.Windows.Forms.Label();
             this.txtGroupMemC10G1 = new System.Windows.Forms.TextBox();
             this.txtGroupMemC1G2 = new System.Windows.Forms.TextBox();
-            this.label43 = new System.Windows.Forms.Label();
             this.txtGroupMemC4G1 = new System.Windows.Forms.TextBox();
-            this.label37 = new System.Windows.Forms.Label();
             this.txtGroupMemC15G1 = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
             this.txtGroupMemC7G1 = new System.Windows.Forms.TextBox();
-            this.label42 = new System.Windows.Forms.Label();
-            this.label33 = new System.Windows.Forms.Label();
-            this.label36 = new System.Windows.Forms.Label();
             this.txtGroupMemC1G1 = new System.Windows.Forms.TextBox();
-            this.label7 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.chkGroupMemberFilter = new System.Windows.Forms.CheckBox();
             this.tabPage2 = new System.Windows.Forms.TabPage();
@@ -493,8 +473,6 @@ namespace NumberProcessor_Global_2022
             this.txtBase = new System.Windows.Forms.TextBox();
             this.panel1 = new System.Windows.Forms.Panel();
             this.txtPowa = new System.Windows.Forms.TextBox();
-            this.txtMatchCounter = new System.Windows.Forms.TextBox();
-            this.btnClearAll = new System.Windows.Forms.Button();
             this.label50 = new System.Windows.Forms.Label();
             this.lbMatchingNumbers = new System.Windows.Forms.ListBox();
             this.grpGenerator = new System.Windows.Forms.GroupBox();
@@ -759,9 +737,9 @@ namespace NumberProcessor_Global_2022
             this.toolStripStatusLabel2,
             this.lblStatus});
             this.statusStrip1.LayoutStyle = System.Windows.Forms.ToolStripLayoutStyle.HorizontalStackWithOverflow;
-            this.statusStrip1.Location = new System.Drawing.Point(0, 961);
+            this.statusStrip1.Location = new System.Drawing.Point(0, 947);
             this.statusStrip1.Name = "statusStrip1";
-            this.statusStrip1.Size = new System.Drawing.Size(1518, 26);
+            this.statusStrip1.Size = new System.Drawing.Size(1333, 26);
             this.statusStrip1.SizingGrip = false;
             this.statusStrip1.TabIndex = 4;
             this.statusStrip1.Text = "statusStrip1";
@@ -808,10 +786,10 @@ namespace NumberProcessor_Global_2022
             // 
             this.tabControl1.Controls.Add(this.tabPage1);
             this.tabControl1.Controls.Add(this.tabPage2);
-            this.tabControl1.Location = new System.Drawing.Point(-3, 0);
+            this.tabControl1.Location = new System.Drawing.Point(12, 1);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(1451, 958);
+            this.tabControl1.Size = new System.Drawing.Size(1314, 946);
             this.tabControl1.TabIndex = 5;
             // 
             // tabPage1
@@ -824,7 +802,7 @@ namespace NumberProcessor_Global_2022
             this.tabPage1.Location = new System.Drawing.Point(4, 24);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(1443, 930);
+            this.tabPage1.Size = new System.Drawing.Size(1306, 918);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Filters";
             // 
@@ -846,9 +824,9 @@ namespace NumberProcessor_Global_2022
             this.grpGroupRowColFilter.Controls.Add(this.label17);
             this.grpGroupRowColFilter.Controls.Add(this.label18);
             this.grpGroupRowColFilter.Controls.Add(this.label19);
-            this.grpGroupRowColFilter.Location = new System.Drawing.Point(1154, 21);
+            this.grpGroupRowColFilter.Location = new System.Drawing.Point(1054, 26);
             this.grpGroupRowColFilter.Name = "grpGroupRowColFilter";
-            this.grpGroupRowColFilter.Size = new System.Drawing.Size(280, 903);
+            this.grpGroupRowColFilter.Size = new System.Drawing.Size(246, 642);
             this.grpGroupRowColFilter.TabIndex = 3;
             this.grpGroupRowColFilter.TabStop = false;
             this.grpGroupRowColFilter.Enter += new System.EventHandler(this.grpGroupRowColFilter_Enter);
@@ -857,7 +835,7 @@ namespace NumberProcessor_Global_2022
             // 
             this.linkLabel1.AutoSize = true;
             this.linkLabel1.LinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(254)))));
-            this.linkLabel1.Location = new System.Drawing.Point(23, 878);
+            this.linkLabel1.Location = new System.Drawing.Point(9, 610);
             this.linkLabel1.Name = "linkLabel1";
             this.linkLabel1.Size = new System.Drawing.Size(47, 15);
             this.linkLabel1.TabIndex = 110;
@@ -940,9 +918,9 @@ namespace NumberProcessor_Global_2022
             this.pnlGroupRowColFilter.Controls.Add(this.txtGrpRowColE4);
             this.pnlGroupRowColFilter.Controls.Add(this.txtGrpRowColB5);
             this.pnlGroupRowColFilter.Controls.Add(this.txtGrpRowColA5);
-            this.pnlGroupRowColFilter.Location = new System.Drawing.Point(13, 48);
+            this.pnlGroupRowColFilter.Location = new System.Drawing.Point(6, 48);
             this.pnlGroupRowColFilter.Name = "pnlGroupRowColFilter";
-            this.pnlGroupRowColFilter.Size = new System.Drawing.Size(262, 745);
+            this.pnlGroupRowColFilter.Size = new System.Drawing.Size(232, 468);
             this.pnlGroupRowColFilter.TabIndex = 108;
             // 
             // textBox1
@@ -1608,7 +1586,7 @@ namespace NumberProcessor_Global_2022
             // 
             this.radioButton1.AutoSize = true;
             this.radioButton1.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.radioButton1.Location = new System.Drawing.Point(176, 877);
+            this.radioButton1.Location = new System.Drawing.Point(142, 606);
             this.radioButton1.Name = "radioButton1";
             this.radioButton1.Size = new System.Drawing.Size(90, 19);
             this.radioButton1.TabIndex = 71;
@@ -1620,7 +1598,7 @@ namespace NumberProcessor_Global_2022
             this.rdoGrpRwClMatch.AutoSize = true;
             this.rdoGrpRwClMatch.Checked = true;
             this.rdoGrpRwClMatch.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rdoGrpRwClMatch.Location = new System.Drawing.Point(176, 856);
+            this.rdoGrpRwClMatch.Location = new System.Drawing.Point(142, 585);
             this.rdoGrpRwClMatch.Name = "rdoGrpRwClMatch";
             this.rdoGrpRwClMatch.Size = new System.Drawing.Size(74, 19);
             this.rdoGrpRwClMatch.TabIndex = 70;
@@ -1632,7 +1610,7 @@ namespace NumberProcessor_Global_2022
             // 
             this.label22.AutoSize = true;
             this.label22.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label22.Location = new System.Drawing.Point(24, 858);
+            this.label22.Location = new System.Drawing.Point(10, 590);
             this.label22.Name = "label22";
             this.label22.Size = new System.Drawing.Size(87, 15);
             this.label22.TabIndex = 69;
@@ -1641,7 +1619,7 @@ namespace NumberProcessor_Global_2022
             // numGrpRwClMinMatch
             // 
             this.numGrpRwClMinMatch.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.numGrpRwClMinMatch.Location = new System.Drawing.Point(238, 821);
+            this.numGrpRwClMinMatch.Location = new System.Drawing.Point(185, 552);
             this.numGrpRwClMinMatch.Maximum = new decimal(new int[] {
             6,
             0,
@@ -1665,7 +1643,7 @@ namespace NumberProcessor_Global_2022
             // 
             this.label21.AutoSize = true;
             this.label21.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label21.Location = new System.Drawing.Point(62, 824);
+            this.label21.Location = new System.Drawing.Point(9, 555);
             this.label21.Name = "label21";
             this.label21.Size = new System.Drawing.Size(170, 15);
             this.label21.TabIndex = 67;
@@ -2008,7 +1986,7 @@ namespace NumberProcessor_Global_2022
             this.groupBox2.Controls.Add(this.txtBatchRows);
             this.groupBox2.Location = new System.Drawing.Point(7, 113);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(774, 811);
+            this.groupBox2.Size = new System.Drawing.Size(771, 805);
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Batch Scan Filter :";
@@ -2018,7 +1996,7 @@ namespace NumberProcessor_Global_2022
             this.numDelinCount3.BackColor = System.Drawing.Color.Gold;
             this.numDelinCount3.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.numDelinCount3.ForeColor = System.Drawing.SystemColors.Desktop;
-            this.numDelinCount3.Location = new System.Drawing.Point(458, 642);
+            this.numDelinCount3.Location = new System.Drawing.Point(458, 629);
             this.numDelinCount3.Name = "numDelinCount3";
             this.numDelinCount3.Size = new System.Drawing.Size(49, 25);
             this.numDelinCount3.TabIndex = 130;
@@ -2035,7 +2013,7 @@ namespace NumberProcessor_Global_2022
             // label93
             // 
             this.label93.AutoSize = true;
-            this.label93.Location = new System.Drawing.Point(704, 498);
+            this.label93.Location = new System.Drawing.Point(704, 481);
             this.label93.Name = "label93";
             this.label93.Size = new System.Drawing.Size(47, 15);
             this.label93.TabIndex = 128;
@@ -2138,7 +2116,7 @@ namespace NumberProcessor_Global_2022
             // chkPatternsExt
             // 
             this.chkPatternsExt.AutoSize = true;
-            this.chkPatternsExt.Location = new System.Drawing.Point(648, 786);
+            this.chkPatternsExt.Location = new System.Drawing.Point(648, 773);
             this.chkPatternsExt.Name = "chkPatternsExt";
             this.chkPatternsExt.Size = new System.Drawing.Size(90, 19);
             this.chkPatternsExt.TabIndex = 123;
@@ -2440,7 +2418,7 @@ namespace NumberProcessor_Global_2022
             // 
             this.chkPowerOpt.AutoSize = true;
             this.chkPowerOpt.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.chkPowerOpt.Location = new System.Drawing.Point(588, 491);
+            this.chkPowerOpt.Location = new System.Drawing.Point(588, 474);
             this.chkPowerOpt.Name = "chkPowerOpt";
             this.chkPowerOpt.Size = new System.Drawing.Size(103, 19);
             this.chkPowerOpt.TabIndex = 114;
@@ -2451,7 +2429,7 @@ namespace NumberProcessor_Global_2022
             // chkClampedOpt2
             // 
             this.chkClampedOpt2.AutoSize = true;
-            this.chkClampedOpt2.Location = new System.Drawing.Point(679, 740);
+            this.chkClampedOpt2.Location = new System.Drawing.Point(679, 727);
             this.chkClampedOpt2.Name = "chkClampedOpt2";
             this.chkClampedOpt2.Size = new System.Drawing.Size(95, 19);
             this.chkClampedOpt2.TabIndex = 113;
@@ -2462,7 +2440,7 @@ namespace NumberProcessor_Global_2022
             // chkClampedOpt1
             // 
             this.chkClampedOpt1.AutoSize = true;
-            this.chkClampedOpt1.Location = new System.Drawing.Point(561, 740);
+            this.chkClampedOpt1.Location = new System.Drawing.Point(561, 727);
             this.chkClampedOpt1.Name = "chkClampedOpt1";
             this.chkClampedOpt1.Size = new System.Drawing.Size(92, 19);
             this.chkClampedOpt1.TabIndex = 113;
@@ -2485,7 +2463,7 @@ namespace NumberProcessor_Global_2022
             // 
             this.label73.AutoSize = true;
             this.label73.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label73.Location = new System.Drawing.Point(714, 691);
+            this.label73.Location = new System.Drawing.Point(714, 678);
             this.label73.Name = "label73";
             this.label73.Size = new System.Drawing.Size(43, 15);
             this.label73.TabIndex = 111;
@@ -2495,7 +2473,7 @@ namespace NumberProcessor_Global_2022
             // 
             this.label74.AutoSize = true;
             this.label74.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label74.Location = new System.Drawing.Point(715, 718);
+            this.label74.Location = new System.Drawing.Point(715, 705);
             this.label74.Name = "label74";
             this.label74.Size = new System.Drawing.Size(38, 15);
             this.label74.TabIndex = 112;
@@ -2505,7 +2483,7 @@ namespace NumberProcessor_Global_2022
             // 
             this.chkHighBatch.AutoSize = true;
             this.chkHighBatch.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.chkHighBatch.Location = new System.Drawing.Point(588, 536);
+            this.chkHighBatch.Location = new System.Drawing.Point(588, 519);
             this.chkHighBatch.Name = "chkHighBatch";
             this.chkHighBatch.Size = new System.Drawing.Size(97, 19);
             this.chkHighBatch.TabIndex = 110;
@@ -2516,7 +2494,7 @@ namespace NumberProcessor_Global_2022
             // 
             this.chkPowerBatch.AutoSize = true;
             this.chkPowerBatch.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.chkPowerBatch.Location = new System.Drawing.Point(588, 514);
+            this.chkPowerBatch.Location = new System.Drawing.Point(588, 497);
             this.chkPowerBatch.Name = "chkPowerBatch";
             this.chkPowerBatch.Size = new System.Drawing.Size(98, 19);
             this.chkPowerBatch.TabIndex = 110;
@@ -2525,7 +2503,7 @@ namespace NumberProcessor_Global_2022
             // 
             // numPowerMax1
             // 
-            this.numPowerMax1.Location = new System.Drawing.Point(440, 690);
+            this.numPowerMax1.Location = new System.Drawing.Point(440, 677);
             this.numPowerMax1.Name = "numPowerMax1";
             this.numPowerMax1.Size = new System.Drawing.Size(45, 21);
             this.numPowerMax1.TabIndex = 108;
@@ -2537,7 +2515,7 @@ namespace NumberProcessor_Global_2022
             // 
             // numPowerMax2
             // 
-            this.numPowerMax2.Location = new System.Drawing.Point(494, 691);
+            this.numPowerMax2.Location = new System.Drawing.Point(494, 678);
             this.numPowerMax2.Maximum = new decimal(new int[] {
             140,
             0,
@@ -2554,7 +2532,7 @@ namespace NumberProcessor_Global_2022
             // 
             // numPowerMax4
             // 
-            this.numPowerMax4.Location = new System.Drawing.Point(612, 690);
+            this.numPowerMax4.Location = new System.Drawing.Point(612, 677);
             this.numPowerMax4.Maximum = new decimal(new int[] {
             140,
             0,
@@ -2571,7 +2549,7 @@ namespace NumberProcessor_Global_2022
             // 
             // numPowerMax3
             // 
-            this.numPowerMax3.Location = new System.Drawing.Point(556, 690);
+            this.numPowerMax3.Location = new System.Drawing.Point(556, 677);
             this.numPowerMax3.Maximum = new decimal(new int[] {
             140,
             0,
@@ -2588,7 +2566,7 @@ namespace NumberProcessor_Global_2022
             // 
             // numPowerMax5
             // 
-            this.numPowerMax5.Location = new System.Drawing.Point(667, 690);
+            this.numPowerMax5.Location = new System.Drawing.Point(667, 677);
             this.numPowerMax5.Maximum = new decimal(new int[] {
             140,
             0,
@@ -2605,7 +2583,7 @@ namespace NumberProcessor_Global_2022
             // 
             // numFirst3DUpper
             // 
-            this.numFirst3DUpper.Location = new System.Drawing.Point(613, 242);
+            this.numFirst3DUpper.Location = new System.Drawing.Point(611, 242);
             this.numFirst3DUpper.Maximum = new decimal(new int[] {
             300,
             0,
@@ -2617,7 +2595,7 @@ namespace NumberProcessor_Global_2022
             // 
             // numPowermin1
             // 
-            this.numPowermin1.Location = new System.Drawing.Point(441, 717);
+            this.numPowermin1.Location = new System.Drawing.Point(441, 704);
             this.numPowermin1.Maximum = new decimal(new int[] {
             50,
             0,
@@ -2629,7 +2607,7 @@ namespace NumberProcessor_Global_2022
             // 
             // numFirst3D
             // 
-            this.numFirst3D.Location = new System.Drawing.Point(560, 242);
+            this.numFirst3D.Location = new System.Drawing.Point(558, 242);
             this.numFirst3D.Maximum = new decimal(new int[] {
             300,
             0,
@@ -2641,7 +2619,7 @@ namespace NumberProcessor_Global_2022
             // 
             // numPowermin2
             // 
-            this.numPowermin2.Location = new System.Drawing.Point(495, 718);
+            this.numPowermin2.Location = new System.Drawing.Point(495, 705);
             this.numPowermin2.Maximum = new decimal(new int[] {
             140,
             0,
@@ -2653,7 +2631,7 @@ namespace NumberProcessor_Global_2022
             // 
             // numFirst4CUpper
             // 
-            this.numFirst4CUpper.Location = new System.Drawing.Point(725, 217);
+            this.numFirst4CUpper.Location = new System.Drawing.Point(723, 217);
             this.numFirst4CUpper.Maximum = new decimal(new int[] {
             300,
             0,
@@ -2677,7 +2655,7 @@ namespace NumberProcessor_Global_2022
             // 
             // numPowermin4
             // 
-            this.numPowermin4.Location = new System.Drawing.Point(613, 717);
+            this.numPowermin4.Location = new System.Drawing.Point(613, 704);
             this.numPowermin4.Maximum = new decimal(new int[] {
             140,
             0,
@@ -2689,7 +2667,7 @@ namespace NumberProcessor_Global_2022
             // 
             // numFirst3CUpper
             // 
-            this.numFirst3CUpper.Location = new System.Drawing.Point(613, 215);
+            this.numFirst3CUpper.Location = new System.Drawing.Point(611, 215);
             this.numFirst3CUpper.Maximum = new decimal(new int[] {
             300,
             0,
@@ -2709,7 +2687,7 @@ namespace NumberProcessor_Global_2022
             // 
             // numPowermin3
             // 
-            this.numPowermin3.Location = new System.Drawing.Point(557, 717);
+            this.numPowermin3.Location = new System.Drawing.Point(557, 704);
             this.numPowermin3.Maximum = new decimal(new int[] {
             140,
             0,
@@ -2731,7 +2709,7 @@ namespace NumberProcessor_Global_2022
             // 
             // numFirst4C
             // 
-            this.numFirst4C.Location = new System.Drawing.Point(667, 217);
+            this.numFirst4C.Location = new System.Drawing.Point(665, 217);
             this.numFirst4C.Maximum = new decimal(new int[] {
             300,
             0,
@@ -2743,7 +2721,7 @@ namespace NumberProcessor_Global_2022
             // 
             // numPowermin5
             // 
-            this.numPowermin5.Location = new System.Drawing.Point(668, 717);
+            this.numPowermin5.Location = new System.Drawing.Point(668, 704);
             this.numPowermin5.Maximum = new decimal(new int[] {
             140,
             0,
@@ -2756,7 +2734,7 @@ namespace NumberProcessor_Global_2022
             // 
             // numFirst3C
             // 
-            this.numFirst3C.Location = new System.Drawing.Point(560, 215);
+            this.numFirst3C.Location = new System.Drawing.Point(558, 215);
             this.numFirst3C.Maximum = new decimal(new int[] {
             300,
             0,
@@ -2769,7 +2747,7 @@ namespace NumberProcessor_Global_2022
             // 
             // numFirst4A
             // 
-            this.numFirst4A.Location = new System.Drawing.Point(667, 161);
+            this.numFirst4A.Location = new System.Drawing.Point(665, 161);
             this.numFirst4A.Maximum = new decimal(new int[] {
             300,
             0,
@@ -2794,7 +2772,7 @@ namespace NumberProcessor_Global_2022
             // 
             // numFirst4AUpper
             // 
-            this.numFirst4AUpper.Location = new System.Drawing.Point(725, 161);
+            this.numFirst4AUpper.Location = new System.Drawing.Point(723, 161);
             this.numFirst4AUpper.Maximum = new decimal(new int[] {
             300,
             0,
@@ -2807,7 +2785,7 @@ namespace NumberProcessor_Global_2022
             // 
             // numFirst3BUpper
             // 
-            this.numFirst3BUpper.Location = new System.Drawing.Point(613, 187);
+            this.numFirst3BUpper.Location = new System.Drawing.Point(611, 187);
             this.numFirst3BUpper.Maximum = new decimal(new int[] {
             300,
             0,
@@ -2819,7 +2797,7 @@ namespace NumberProcessor_Global_2022
             // 
             // numFirst4B
             // 
-            this.numFirst4B.Location = new System.Drawing.Point(667, 189);
+            this.numFirst4B.Location = new System.Drawing.Point(665, 189);
             this.numFirst4B.Maximum = new decimal(new int[] {
             300,
             0,
@@ -2843,7 +2821,7 @@ namespace NumberProcessor_Global_2022
             // 
             // numFirst4BUpper
             // 
-            this.numFirst4BUpper.Location = new System.Drawing.Point(725, 189);
+            this.numFirst4BUpper.Location = new System.Drawing.Point(723, 189);
             this.numFirst4BUpper.Maximum = new decimal(new int[] {
             300,
             0,
@@ -2855,7 +2833,7 @@ namespace NumberProcessor_Global_2022
             // 
             // numFirst3B
             // 
-            this.numFirst3B.Location = new System.Drawing.Point(560, 187);
+            this.numFirst3B.Location = new System.Drawing.Point(558, 187);
             this.numFirst3B.Maximum = new decimal(new int[] {
             300,
             0,
@@ -2879,7 +2857,7 @@ namespace NumberProcessor_Global_2022
             // 
             // numFirst3AUpper
             // 
-            this.numFirst3AUpper.Location = new System.Drawing.Point(613, 159);
+            this.numFirst3AUpper.Location = new System.Drawing.Point(611, 159);
             this.numFirst3AUpper.Maximum = new decimal(new int[] {
             300,
             0,
@@ -2898,7 +2876,7 @@ namespace NumberProcessor_Global_2022
             // 
             // numFirst3A
             // 
-            this.numFirst3A.Location = new System.Drawing.Point(560, 159);
+            this.numFirst3A.Location = new System.Drawing.Point(558, 159);
             this.numFirst3A.Maximum = new decimal(new int[] {
             300,
             0,
@@ -2981,7 +2959,7 @@ namespace NumberProcessor_Global_2022
             // 
             this.chkPowerMatch.AutoSize = true;
             this.chkPowerMatch.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.chkPowerMatch.Location = new System.Drawing.Point(587, 561);
+            this.chkPowerMatch.Location = new System.Drawing.Point(587, 544);
             this.chkPowerMatch.Name = "chkPowerMatch";
             this.chkPowerMatch.Size = new System.Drawing.Size(98, 19);
             this.chkPowerMatch.TabIndex = 104;
@@ -2992,7 +2970,7 @@ namespace NumberProcessor_Global_2022
             // chkunMatchedSum
             // 
             this.chkunMatchedSum.AutoSize = true;
-            this.chkunMatchedSum.Location = new System.Drawing.Point(412, 786);
+            this.chkunMatchedSum.Location = new System.Drawing.Point(412, 773);
             this.chkunMatchedSum.Name = "chkunMatchedSum";
             this.chkunMatchedSum.Size = new System.Drawing.Size(86, 19);
             this.chkunMatchedSum.TabIndex = 103;
@@ -3003,7 +2981,7 @@ namespace NumberProcessor_Global_2022
             // chkMatchedSum
             // 
             this.chkMatchedSum.AutoSize = true;
-            this.chkMatchedSum.Location = new System.Drawing.Point(412, 767);
+            this.chkMatchedSum.Location = new System.Drawing.Point(412, 754);
             this.chkMatchedSum.Name = "chkMatchedSum";
             this.chkMatchedSum.Size = new System.Drawing.Size(72, 19);
             this.chkMatchedSum.TabIndex = 103;
@@ -3014,7 +2992,7 @@ namespace NumberProcessor_Global_2022
             // chkBatchGroup
             // 
             this.chkBatchGroup.AutoSize = true;
-            this.chkBatchGroup.Location = new System.Drawing.Point(452, 330);
+            this.chkBatchGroup.Location = new System.Drawing.Point(452, 312);
             this.chkBatchGroup.Name = "chkBatchGroup";
             this.chkBatchGroup.Size = new System.Drawing.Size(15, 14);
             this.chkBatchGroup.TabIndex = 102;
@@ -3025,7 +3003,7 @@ namespace NumberProcessor_Global_2022
             // 
             this.numDelinCount2.BackColor = System.Drawing.Color.Gold;
             this.numDelinCount2.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.numDelinCount2.Location = new System.Drawing.Point(458, 588);
+            this.numDelinCount2.Location = new System.Drawing.Point(458, 575);
             this.numDelinCount2.Maximum = new decimal(new int[] {
             800,
             0,
@@ -3051,7 +3029,7 @@ namespace NumberProcessor_Global_2022
             this.numDelinCount1.BackColor = System.Drawing.Color.Salmon;
             this.numDelinCount1.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.numDelinCount1.ForeColor = System.Drawing.SystemColors.Window;
-            this.numDelinCount1.Location = new System.Drawing.Point(458, 536);
+            this.numDelinCount1.Location = new System.Drawing.Point(458, 523);
             this.numDelinCount1.Maximum = new decimal(new int[] {
             800,
             0,
@@ -3072,7 +3050,7 @@ namespace NumberProcessor_Global_2022
             this.numDelinCount.BackColor = System.Drawing.Color.Salmon;
             this.numDelinCount.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.numDelinCount.ForeColor = System.Drawing.Color.White;
-            this.numDelinCount.Location = new System.Drawing.Point(453, 486);
+            this.numDelinCount.Location = new System.Drawing.Point(453, 473);
             this.numDelinCount.Maximum = new decimal(new int[] {
             1000,
             0,
@@ -3096,7 +3074,7 @@ namespace NumberProcessor_Global_2022
             // numMinMatch
             // 
             this.numMinMatch.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.numMinMatch.Location = new System.Drawing.Point(707, 468);
+            this.numMinMatch.Location = new System.Drawing.Point(707, 451);
             this.numMinMatch.Maximum = new decimal(new int[] {
             6,
             0,
@@ -3114,7 +3092,7 @@ namespace NumberProcessor_Global_2022
             // 
             // chkBatchColC
             // 
-            this.chkBatchColC.Location = new System.Drawing.Point(660, 386);
+            this.chkBatchColC.Location = new System.Drawing.Point(660, 368);
             this.chkBatchColC.Name = "chkBatchColC";
             this.chkBatchColC.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.chkBatchColC.Size = new System.Drawing.Size(29, 17);
@@ -3125,7 +3103,7 @@ namespace NumberProcessor_Global_2022
             // 
             // chkBatchColD
             // 
-            this.chkBatchColD.Location = new System.Drawing.Point(718, 386);
+            this.chkBatchColD.Location = new System.Drawing.Point(718, 368);
             this.chkBatchColD.Name = "chkBatchColD";
             this.chkBatchColD.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.chkBatchColD.Size = new System.Drawing.Size(29, 17);
@@ -3136,7 +3114,7 @@ namespace NumberProcessor_Global_2022
             // 
             // chkBatchColF
             // 
-            this.chkBatchColF.Location = new System.Drawing.Point(718, 416);
+            this.chkBatchColF.Location = new System.Drawing.Point(718, 398);
             this.chkBatchColF.Name = "chkBatchColF";
             this.chkBatchColF.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.chkBatchColF.Size = new System.Drawing.Size(29, 17);
@@ -3147,7 +3125,7 @@ namespace NumberProcessor_Global_2022
             // 
             // chkBatchColE
             // 
-            this.chkBatchColE.Location = new System.Drawing.Point(660, 416);
+            this.chkBatchColE.Location = new System.Drawing.Point(660, 398);
             this.chkBatchColE.Name = "chkBatchColE";
             this.chkBatchColE.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.chkBatchColE.Size = new System.Drawing.Size(29, 17);
@@ -3158,7 +3136,7 @@ namespace NumberProcessor_Global_2022
             // 
             // chkBatchColB
             // 
-            this.chkBatchColB.Location = new System.Drawing.Point(718, 358);
+            this.chkBatchColB.Location = new System.Drawing.Point(718, 340);
             this.chkBatchColB.Name = "chkBatchColB";
             this.chkBatchColB.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.chkBatchColB.Size = new System.Drawing.Size(29, 17);
@@ -3169,7 +3147,7 @@ namespace NumberProcessor_Global_2022
             // 
             // chkBatchColA
             // 
-            this.chkBatchColA.Location = new System.Drawing.Point(660, 359);
+            this.chkBatchColA.Location = new System.Drawing.Point(660, 341);
             this.chkBatchColA.Name = "chkBatchColA";
             this.chkBatchColA.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.chkBatchColA.Size = new System.Drawing.Size(29, 17);
@@ -3192,7 +3170,7 @@ namespace NumberProcessor_Global_2022
             // 
             this.label82.AutoSize = true;
             this.label82.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label82.Location = new System.Drawing.Point(480, 292);
+            this.label82.Location = new System.Drawing.Point(480, 274);
             this.label82.Name = "label82";
             this.label82.Size = new System.Drawing.Size(52, 15);
             this.label82.TabIndex = 25;
@@ -3202,7 +3180,7 @@ namespace NumberProcessor_Global_2022
             // 
             this.label81.AutoSize = true;
             this.label81.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label81.Location = new System.Drawing.Point(560, 292);
+            this.label81.Location = new System.Drawing.Point(560, 274);
             this.label81.Name = "label81";
             this.label81.Size = new System.Drawing.Size(49, 15);
             this.label81.TabIndex = 25;
@@ -3212,7 +3190,7 @@ namespace NumberProcessor_Global_2022
             // 
             this.label80.AutoSize = true;
             this.label80.Font = new System.Drawing.Font("Arial", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label80.Location = new System.Drawing.Point(645, 292);
+            this.label80.Location = new System.Drawing.Point(645, 274);
             this.label80.Name = "label80";
             this.label80.Size = new System.Drawing.Size(81, 16);
             this.label80.TabIndex = 25;
@@ -3222,7 +3200,7 @@ namespace NumberProcessor_Global_2022
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Arial", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(639, 328);
+            this.label3.Location = new System.Drawing.Point(639, 310);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(86, 15);
             this.label3.TabIndex = 25;
@@ -3298,7 +3276,7 @@ namespace NumberProcessor_Global_2022
             // chkOutliersExcl
             // 
             this.chkOutliersExcl.AutoSize = true;
-            this.chkOutliersExcl.Location = new System.Drawing.Point(613, 442);
+            this.chkOutliersExcl.Location = new System.Drawing.Point(613, 424);
             this.chkOutliersExcl.Name = "chkOutliersExcl";
             this.chkOutliersExcl.Size = new System.Drawing.Size(15, 14);
             this.chkOutliersExcl.TabIndex = 22;
@@ -3307,7 +3285,7 @@ namespace NumberProcessor_Global_2022
             // chkMeanExcl
             // 
             this.chkMeanExcl.AutoSize = true;
-            this.chkMeanExcl.Location = new System.Drawing.Point(613, 421);
+            this.chkMeanExcl.Location = new System.Drawing.Point(613, 403);
             this.chkMeanExcl.Name = "chkMeanExcl";
             this.chkMeanExcl.Size = new System.Drawing.Size(15, 14);
             this.chkMeanExcl.TabIndex = 22;
@@ -3316,7 +3294,7 @@ namespace NumberProcessor_Global_2022
             // chkOutliersIncl
             // 
             this.chkOutliersIncl.AutoSize = true;
-            this.chkOutliersIncl.Location = new System.Drawing.Point(568, 442);
+            this.chkOutliersIncl.Location = new System.Drawing.Point(568, 424);
             this.chkOutliersIncl.Name = "chkOutliersIncl";
             this.chkOutliersIncl.Size = new System.Drawing.Size(15, 14);
             this.chkOutliersIncl.TabIndex = 22;
@@ -3325,7 +3303,7 @@ namespace NumberProcessor_Global_2022
             // chkMeanIncl
             // 
             this.chkMeanIncl.AutoSize = true;
-            this.chkMeanIncl.Location = new System.Drawing.Point(568, 421);
+            this.chkMeanIncl.Location = new System.Drawing.Point(568, 403);
             this.chkMeanIncl.Name = "chkMeanIncl";
             this.chkMeanIncl.Size = new System.Drawing.Size(15, 14);
             this.chkMeanIncl.TabIndex = 22;
@@ -3334,7 +3312,7 @@ namespace NumberProcessor_Global_2022
             // chkAverExcl
             // 
             this.chkAverExcl.AutoSize = true;
-            this.chkAverExcl.Location = new System.Drawing.Point(613, 379);
+            this.chkAverExcl.Location = new System.Drawing.Point(613, 361);
             this.chkAverExcl.Name = "chkAverExcl";
             this.chkAverExcl.Size = new System.Drawing.Size(15, 14);
             this.chkAverExcl.TabIndex = 22;
@@ -3343,7 +3321,7 @@ namespace NumberProcessor_Global_2022
             // chkMinExcl
             // 
             this.chkMinExcl.AutoSize = true;
-            this.chkMinExcl.Location = new System.Drawing.Point(613, 400);
+            this.chkMinExcl.Location = new System.Drawing.Point(613, 382);
             this.chkMinExcl.Name = "chkMinExcl";
             this.chkMinExcl.Size = new System.Drawing.Size(15, 14);
             this.chkMinExcl.TabIndex = 22;
@@ -3352,7 +3330,7 @@ namespace NumberProcessor_Global_2022
             // chkIRMinus
             // 
             this.chkIRMinus.AutoSize = true;
-            this.chkIRMinus.Location = new System.Drawing.Point(539, 293);
+            this.chkIRMinus.Location = new System.Drawing.Point(539, 275);
             this.chkIRMinus.Name = "chkIRMinus";
             this.chkIRMinus.Size = new System.Drawing.Size(15, 14);
             this.chkIRMinus.TabIndex = 22;
@@ -3362,7 +3340,7 @@ namespace NumberProcessor_Global_2022
             // chkAverInc
             // 
             this.chkAverInc.AutoSize = true;
-            this.chkAverInc.Location = new System.Drawing.Point(568, 379);
+            this.chkAverInc.Location = new System.Drawing.Point(568, 361);
             this.chkAverInc.Name = "chkAverInc";
             this.chkAverInc.Size = new System.Drawing.Size(15, 14);
             this.chkAverInc.TabIndex = 22;
@@ -3371,7 +3349,7 @@ namespace NumberProcessor_Global_2022
             // chkLimitCount
             // 
             this.chkLimitCount.AutoSize = true;
-            this.chkLimitCount.Location = new System.Drawing.Point(621, 293);
+            this.chkLimitCount.Location = new System.Drawing.Point(621, 275);
             this.chkLimitCount.Name = "chkLimitCount";
             this.chkLimitCount.Size = new System.Drawing.Size(15, 14);
             this.chkLimitCount.TabIndex = 22;
@@ -3391,7 +3369,7 @@ namespace NumberProcessor_Global_2022
             // chkInterRange
             // 
             this.chkInterRange.AutoSize = true;
-            this.chkInterRange.Location = new System.Drawing.Point(732, 294);
+            this.chkInterRange.Location = new System.Drawing.Point(732, 276);
             this.chkInterRange.Name = "chkInterRange";
             this.chkInterRange.Size = new System.Drawing.Size(15, 14);
             this.chkInterRange.TabIndex = 22;
@@ -3401,7 +3379,7 @@ namespace NumberProcessor_Global_2022
             // chkMinIncl
             // 
             this.chkMinIncl.AutoSize = true;
-            this.chkMinIncl.Location = new System.Drawing.Point(568, 400);
+            this.chkMinIncl.Location = new System.Drawing.Point(568, 382);
             this.chkMinIncl.Name = "chkMinIncl";
             this.chkMinIncl.Size = new System.Drawing.Size(15, 14);
             this.chkMinIncl.TabIndex = 22;
@@ -3410,7 +3388,7 @@ namespace NumberProcessor_Global_2022
             // chkColSum
             // 
             this.chkColSum.AutoSize = true;
-            this.chkColSum.Location = new System.Drawing.Point(732, 331);
+            this.chkColSum.Location = new System.Drawing.Point(732, 313);
             this.chkColSum.Name = "chkColSum";
             this.chkColSum.Size = new System.Drawing.Size(15, 14);
             this.chkColSum.TabIndex = 22;
@@ -3420,7 +3398,7 @@ namespace NumberProcessor_Global_2022
             // chkbatchExl
             // 
             this.chkbatchExl.AutoSize = true;
-            this.chkbatchExl.Location = new System.Drawing.Point(613, 358);
+            this.chkbatchExl.Location = new System.Drawing.Point(613, 340);
             this.chkbatchExl.Name = "chkbatchExl";
             this.chkbatchExl.Size = new System.Drawing.Size(15, 14);
             this.chkbatchExl.TabIndex = 22;
@@ -3429,7 +3407,7 @@ namespace NumberProcessor_Global_2022
             // chkbatchInc
             // 
             this.chkbatchInc.AutoSize = true;
-            this.chkbatchInc.Location = new System.Drawing.Point(568, 358);
+            this.chkbatchInc.Location = new System.Drawing.Point(568, 340);
             this.chkbatchInc.Name = "chkbatchInc";
             this.chkbatchInc.Size = new System.Drawing.Size(15, 14);
             this.chkbatchInc.TabIndex = 22;
@@ -3634,7 +3612,7 @@ namespace NumberProcessor_Global_2022
             // label79
             // 
             this.label79.AutoSize = true;
-            this.label79.Location = new System.Drawing.Point(609, 673);
+            this.label79.Location = new System.Drawing.Point(609, 660);
             this.label79.Name = "label79";
             this.label79.Size = new System.Drawing.Size(50, 15);
             this.label79.TabIndex = 20;
@@ -3643,7 +3621,7 @@ namespace NumberProcessor_Global_2022
             // label78
             // 
             this.label78.AutoSize = true;
-            this.label78.Location = new System.Drawing.Point(663, 672);
+            this.label78.Location = new System.Drawing.Point(663, 659);
             this.label78.Name = "label78";
             this.label78.Size = new System.Drawing.Size(24, 15);
             this.label78.TabIndex = 20;
@@ -3652,7 +3630,7 @@ namespace NumberProcessor_Global_2022
             // label77
             // 
             this.label77.AutoSize = true;
-            this.label77.Location = new System.Drawing.Point(553, 673);
+            this.label77.Location = new System.Drawing.Point(553, 660);
             this.label77.Name = "label77";
             this.label77.Size = new System.Drawing.Size(50, 15);
             this.label77.TabIndex = 20;
@@ -3661,7 +3639,7 @@ namespace NumberProcessor_Global_2022
             // label76
             // 
             this.label76.AutoSize = true;
-            this.label76.Location = new System.Drawing.Point(491, 673);
+            this.label76.Location = new System.Drawing.Point(491, 660);
             this.label76.Name = "label76";
             this.label76.Size = new System.Drawing.Size(50, 15);
             this.label76.TabIndex = 20;
@@ -3670,7 +3648,7 @@ namespace NumberProcessor_Global_2022
             // label75
             // 
             this.label75.AutoSize = true;
-            this.label75.Location = new System.Drawing.Point(438, 672);
+            this.label75.Location = new System.Drawing.Point(438, 659);
             this.label75.Name = "label75";
             this.label75.Size = new System.Drawing.Size(50, 15);
             this.label75.TabIndex = 20;
@@ -3904,7 +3882,7 @@ namespace NumberProcessor_Global_2022
             // 
             this.label51.AutoSize = true;
             this.label51.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label51.Location = new System.Drawing.Point(410, 750);
+            this.label51.Location = new System.Drawing.Point(410, 737);
             this.label51.Name = "label51";
             this.label51.Size = new System.Drawing.Size(120, 15);
             this.label51.TabIndex = 13;
@@ -3924,7 +3902,7 @@ namespace NumberProcessor_Global_2022
             // 
             this.label95.AutoSize = true;
             this.label95.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label95.Location = new System.Drawing.Point(447, 619);
+            this.label95.Location = new System.Drawing.Point(447, 606);
             this.label95.Name = "label95";
             this.label95.Size = new System.Drawing.Size(50, 15);
             this.label95.TabIndex = 2;
@@ -3935,7 +3913,7 @@ namespace NumberProcessor_Global_2022
             // 
             this.label96.AutoSize = true;
             this.label96.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label96.Location = new System.Drawing.Point(447, 567);
+            this.label96.Location = new System.Drawing.Point(447, 554);
             this.label96.Name = "label96";
             this.label96.Size = new System.Drawing.Size(50, 15);
             this.label96.TabIndex = 2;
@@ -3956,7 +3934,7 @@ namespace NumberProcessor_Global_2022
             // 
             this.label89.AutoSize = true;
             this.label89.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label89.Location = new System.Drawing.Point(447, 516);
+            this.label89.Location = new System.Drawing.Point(447, 503);
             this.label89.Name = "label89";
             this.label89.Size = new System.Drawing.Size(58, 15);
             this.label89.TabIndex = 2;
@@ -3967,7 +3945,7 @@ namespace NumberProcessor_Global_2022
             this.label83.AutoSize = true;
             this.label83.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label83.ForeColor = System.Drawing.Color.Crimson;
-            this.label83.Location = new System.Drawing.Point(450, 467);
+            this.label83.Location = new System.Drawing.Point(450, 454);
             this.label83.Name = "label83";
             this.label83.Size = new System.Drawing.Size(119, 15);
             this.label83.TabIndex = 2;
@@ -4041,7 +4019,7 @@ namespace NumberProcessor_Global_2022
             this.chkAbsolutesum.Checked = true;
             this.chkAbsolutesum.CheckState = System.Windows.Forms.CheckState.Checked;
             this.chkAbsolutesum.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.chkAbsolutesum.Location = new System.Drawing.Point(521, 787);
+            this.chkAbsolutesum.Location = new System.Drawing.Point(521, 774);
             this.chkAbsolutesum.Name = "chkAbsolutesum";
             this.chkAbsolutesum.Size = new System.Drawing.Size(121, 18);
             this.chkAbsolutesum.TabIndex = 1;
@@ -4063,7 +4041,7 @@ namespace NumberProcessor_Global_2022
             // 
             // chkOutliers
             // 
-            this.chkOutliers.Location = new System.Drawing.Point(452, 440);
+            this.chkOutliers.Location = new System.Drawing.Point(452, 422);
             this.chkOutliers.Name = "chkOutliers";
             this.chkOutliers.Size = new System.Drawing.Size(91, 18);
             this.chkOutliers.TabIndex = 1;
@@ -4073,7 +4051,7 @@ namespace NumberProcessor_Global_2022
             // 
             // chkBatchMean
             // 
-            this.chkBatchMean.Location = new System.Drawing.Point(452, 419);
+            this.chkBatchMean.Location = new System.Drawing.Point(452, 401);
             this.chkBatchMean.Name = "chkBatchMean";
             this.chkBatchMean.Size = new System.Drawing.Size(101, 18);
             this.chkBatchMean.TabIndex = 1;
@@ -4083,7 +4061,7 @@ namespace NumberProcessor_Global_2022
             // 
             // chkDelinquents
             // 
-            this.chkDelinquents.Location = new System.Drawing.Point(452, 398);
+            this.chkDelinquents.Location = new System.Drawing.Point(452, 380);
             this.chkDelinquents.Name = "chkDelinquents";
             this.chkDelinquents.Size = new System.Drawing.Size(107, 18);
             this.chkDelinquents.TabIndex = 1;
@@ -4093,7 +4071,7 @@ namespace NumberProcessor_Global_2022
             // 
             // chkBatchCoupling
             // 
-            this.chkBatchCoupling.Location = new System.Drawing.Point(452, 377);
+            this.chkBatchCoupling.Location = new System.Drawing.Point(452, 359);
             this.chkBatchCoupling.Name = "chkBatchCoupling";
             this.chkBatchCoupling.Size = new System.Drawing.Size(107, 18);
             this.chkBatchCoupling.TabIndex = 1;
@@ -4114,7 +4092,7 @@ namespace NumberProcessor_Global_2022
             // 
             // chkBatches
             // 
-            this.chkBatches.Location = new System.Drawing.Point(452, 356);
+            this.chkBatches.Location = new System.Drawing.Point(452, 338);
             this.chkBatches.Name = "chkBatches";
             this.chkBatches.Size = new System.Drawing.Size(91, 18);
             this.chkBatches.TabIndex = 1;
@@ -4168,7 +4146,7 @@ namespace NumberProcessor_Global_2022
             // 
             this.label57.AutoSize = true;
             this.label57.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label57.Location = new System.Drawing.Point(586, 472);
+            this.label57.Location = new System.Drawing.Point(586, 455);
             this.label57.Name = "label57";
             this.label57.Size = new System.Drawing.Size(113, 15);
             this.label57.TabIndex = 10;
@@ -4262,7 +4240,7 @@ namespace NumberProcessor_Global_2022
             // 
             this.label56.AutoSize = true;
             this.label56.Font = new System.Drawing.Font("Arial", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label56.Location = new System.Drawing.Point(467, 328);
+            this.label56.Location = new System.Drawing.Point(467, 310);
             this.label56.Name = "label56";
             this.label56.Size = new System.Drawing.Size(165, 15);
             this.label56.TabIndex = 3;
@@ -4278,7 +4256,7 @@ namespace NumberProcessor_Global_2022
             this.txtBatchRows.Multiline = true;
             this.txtBatchRows.Name = "txtBatchRows";
             this.txtBatchRows.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.txtBatchRows.Size = new System.Drawing.Size(163, 659);
+            this.txtBatchRows.Size = new System.Drawing.Size(163, 653);
             this.txtBatchRows.TabIndex = 2;
             this.txtBatchRows.Text = resources.GetString("txtBatchRows.Text");
             this.txtBatchRows.TextChanged += new System.EventHandler(this.txtBatchRows_TextChanged);
@@ -4336,20 +4314,14 @@ namespace NumberProcessor_Global_2022
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC9G2);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC14G1);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC6G1);
-            this.grpGroupMemFilter.Controls.Add(this.label49);
-            this.grpGroupMemFilter.Controls.Add(this.label41);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC3G2);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC17G1);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC9G1);
-            this.grpGroupMemFilter.Controls.Add(this.label48);
-            this.grpGroupMemFilter.Controls.Add(this.label35);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC19G7);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC19G5);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC11G7);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC11G5);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC3G1);
-            this.grpGroupMemFilter.Controls.Add(this.label47);
-            this.grpGroupMemFilter.Controls.Add(this.label40);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC13G7);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC13G5);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC5G7);
@@ -4358,7 +4330,6 @@ namespace NumberProcessor_Global_2022
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC19G4);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC11G6);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC11G4);
-            this.grpGroupMemFilter.Controls.Add(this.label13);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC16G7);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC16G5);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC8G7);
@@ -4392,27 +4363,20 @@ namespace NumberProcessor_Global_2022
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC8G2);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC13G1);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC5G1);
-            this.grpGroupMemFilter.Controls.Add(this.label46);
-            this.grpGroupMemFilter.Controls.Add(this.label39);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC2G2);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC16G1);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC8G1);
-            this.grpGroupMemFilter.Controls.Add(this.label45);
-            this.grpGroupMemFilter.Controls.Add(this.label34);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC18G7);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC18G5);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC10G7);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC10G5);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC2G1);
-            this.grpGroupMemFilter.Controls.Add(this.label44);
-            this.grpGroupMemFilter.Controls.Add(this.label38);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC4G7);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC4G5);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC15G7);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC15G5);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC7G7);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC7G5);
-            this.grpGroupMemFilter.Controls.Add(this.label12);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC18G6);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC18G4);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC10G6);
@@ -4446,22 +4410,16 @@ namespace NumberProcessor_Global_2022
             this.grpGroupMemFilter.Controls.Add(this.label9);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC10G1);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC1G2);
-            this.grpGroupMemFilter.Controls.Add(this.label43);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC4G1);
-            this.grpGroupMemFilter.Controls.Add(this.label37);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC15G1);
             this.grpGroupMemFilter.Controls.Add(this.label8);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC7G1);
-            this.grpGroupMemFilter.Controls.Add(this.label42);
-            this.grpGroupMemFilter.Controls.Add(this.label33);
-            this.grpGroupMemFilter.Controls.Add(this.label36);
             this.grpGroupMemFilter.Controls.Add(this.txtGroupMemC1G1);
-            this.grpGroupMemFilter.Controls.Add(this.label7);
             this.grpGroupMemFilter.Controls.Add(this.label6);
             this.grpGroupMemFilter.Controls.Add(this.chkGroupMemberFilter);
-            this.grpGroupMemFilter.Location = new System.Drawing.Point(788, 9);
+            this.grpGroupMemFilter.Location = new System.Drawing.Point(799, 15);
             this.grpGroupMemFilter.Name = "grpGroupMemFilter";
-            this.grpGroupMemFilter.Size = new System.Drawing.Size(360, 918);
+            this.grpGroupMemFilter.Size = new System.Drawing.Size(246, 654);
             this.grpGroupMemFilter.TabIndex = 2;
             this.grpGroupMemFilter.TabStop = false;
             // 
@@ -4469,7 +4427,7 @@ namespace NumberProcessor_Global_2022
             // 
             this.linkLabel2.AutoSize = true;
             this.linkLabel2.LinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(254)))));
-            this.linkLabel2.Location = new System.Drawing.Point(102, 892);
+            this.linkLabel2.Location = new System.Drawing.Point(14, 620);
             this.linkLabel2.Name = "linkLabel2";
             this.linkLabel2.Size = new System.Drawing.Size(47, 15);
             this.linkLabel2.TabIndex = 111;
@@ -4481,7 +4439,7 @@ namespace NumberProcessor_Global_2022
             // 
             this.radioButton3.AutoSize = true;
             this.radioButton3.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.radioButton3.Location = new System.Drawing.Point(243, 890);
+            this.radioButton3.Location = new System.Drawing.Point(127, 623);
             this.radioButton3.Name = "radioButton3";
             this.radioButton3.Size = new System.Drawing.Size(90, 19);
             this.radioButton3.TabIndex = 39;
@@ -4493,7 +4451,7 @@ namespace NumberProcessor_Global_2022
             this.rdoGrpMemMatch.AutoSize = true;
             this.rdoGrpMemMatch.Checked = true;
             this.rdoGrpMemMatch.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rdoGrpMemMatch.Location = new System.Drawing.Point(243, 869);
+            this.rdoGrpMemMatch.Location = new System.Drawing.Point(127, 602);
             this.rdoGrpMemMatch.Name = "rdoGrpMemMatch";
             this.rdoGrpMemMatch.Size = new System.Drawing.Size(74, 19);
             this.rdoGrpMemMatch.TabIndex = 38;
@@ -4505,7 +4463,7 @@ namespace NumberProcessor_Global_2022
             // 
             this.label14.AutoSize = true;
             this.label14.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label14.Location = new System.Drawing.Point(100, 871);
+            this.label14.Location = new System.Drawing.Point(12, 599);
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(87, 15);
             this.label14.TabIndex = 37;
@@ -4513,7 +4471,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC20G7
             // 
-            this.txtGroupMemC20G7.Location = new System.Drawing.Point(311, 562);
+            this.txtGroupMemC20G7.Location = new System.Drawing.Point(209, 558);
             this.txtGroupMemC20G7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC20G7.Name = "txtGroupMemC20G7";
             this.txtGroupMemC20G7.Size = new System.Drawing.Size(28, 21);
@@ -4524,7 +4482,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC20G5
             // 
-            this.txtGroupMemC20G5.Location = new System.Drawing.Point(243, 562);
+            this.txtGroupMemC20G5.Location = new System.Drawing.Point(141, 558);
             this.txtGroupMemC20G5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC20G5.Name = "txtGroupMemC20G5";
             this.txtGroupMemC20G5.Size = new System.Drawing.Size(28, 21);
@@ -4535,7 +4493,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC12G7
             // 
-            this.txtGroupMemC12G7.Location = new System.Drawing.Point(311, 354);
+            this.txtGroupMemC12G7.Location = new System.Drawing.Point(209, 350);
             this.txtGroupMemC12G7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC12G7.Name = "txtGroupMemC12G7";
             this.txtGroupMemC12G7.Size = new System.Drawing.Size(28, 21);
@@ -4546,7 +4504,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC12G5
             // 
-            this.txtGroupMemC12G5.Location = new System.Drawing.Point(243, 354);
+            this.txtGroupMemC12G5.Location = new System.Drawing.Point(141, 350);
             this.txtGroupMemC12G5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC12G5.Name = "txtGroupMemC12G5";
             this.txtGroupMemC12G5.Size = new System.Drawing.Size(28, 21);
@@ -4557,7 +4515,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC14G7
             // 
-            this.txtGroupMemC14G7.Location = new System.Drawing.Point(311, 406);
+            this.txtGroupMemC14G7.Location = new System.Drawing.Point(209, 402);
             this.txtGroupMemC14G7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC14G7.Name = "txtGroupMemC14G7";
             this.txtGroupMemC14G7.Size = new System.Drawing.Size(28, 21);
@@ -4569,7 +4527,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC14G5
             // 
-            this.txtGroupMemC14G5.Location = new System.Drawing.Point(243, 406);
+            this.txtGroupMemC14G5.Location = new System.Drawing.Point(141, 402);
             this.txtGroupMemC14G5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC14G5.Name = "txtGroupMemC14G5";
             this.txtGroupMemC14G5.Size = new System.Drawing.Size(28, 21);
@@ -4581,7 +4539,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC6G7
             // 
-            this.txtGroupMemC6G7.Location = new System.Drawing.Point(311, 198);
+            this.txtGroupMemC6G7.Location = new System.Drawing.Point(209, 194);
             this.txtGroupMemC6G7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC6G7.Name = "txtGroupMemC6G7";
             this.txtGroupMemC6G7.Size = new System.Drawing.Size(28, 21);
@@ -4593,7 +4551,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC6G5
             // 
-            this.txtGroupMemC6G5.Location = new System.Drawing.Point(243, 198);
+            this.txtGroupMemC6G5.Location = new System.Drawing.Point(141, 194);
             this.txtGroupMemC6G5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC6G5.Name = "txtGroupMemC6G5";
             this.txtGroupMemC6G5.Size = new System.Drawing.Size(28, 21);
@@ -4605,7 +4563,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC17G7
             // 
-            this.txtGroupMemC17G7.Location = new System.Drawing.Point(311, 484);
+            this.txtGroupMemC17G7.Location = new System.Drawing.Point(209, 480);
             this.txtGroupMemC17G7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC17G7.Name = "txtGroupMemC17G7";
             this.txtGroupMemC17G7.Size = new System.Drawing.Size(28, 21);
@@ -4616,7 +4574,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC17G5
             // 
-            this.txtGroupMemC17G5.Location = new System.Drawing.Point(243, 484);
+            this.txtGroupMemC17G5.Location = new System.Drawing.Point(141, 480);
             this.txtGroupMemC17G5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC17G5.Name = "txtGroupMemC17G5";
             this.txtGroupMemC17G5.Size = new System.Drawing.Size(28, 21);
@@ -4627,7 +4585,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC9G7
             // 
-            this.txtGroupMemC9G7.Location = new System.Drawing.Point(311, 276);
+            this.txtGroupMemC9G7.Location = new System.Drawing.Point(209, 272);
             this.txtGroupMemC9G7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC9G7.Name = "txtGroupMemC9G7";
             this.txtGroupMemC9G7.Size = new System.Drawing.Size(28, 21);
@@ -4638,7 +4596,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC9G5
             // 
-            this.txtGroupMemC9G5.Location = new System.Drawing.Point(243, 276);
+            this.txtGroupMemC9G5.Location = new System.Drawing.Point(141, 272);
             this.txtGroupMemC9G5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC9G5.Name = "txtGroupMemC9G5";
             this.txtGroupMemC9G5.Size = new System.Drawing.Size(28, 21);
@@ -4649,7 +4607,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC3G7
             // 
-            this.txtGroupMemC3G7.Location = new System.Drawing.Point(311, 120);
+            this.txtGroupMemC3G7.Location = new System.Drawing.Point(209, 116);
             this.txtGroupMemC3G7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC3G7.Name = "txtGroupMemC3G7";
             this.txtGroupMemC3G7.Size = new System.Drawing.Size(28, 21);
@@ -4660,7 +4618,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC3G5
             // 
-            this.txtGroupMemC3G5.Location = new System.Drawing.Point(243, 120);
+            this.txtGroupMemC3G5.Location = new System.Drawing.Point(141, 116);
             this.txtGroupMemC3G5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC3G5.Name = "txtGroupMemC3G5";
             this.txtGroupMemC3G5.Size = new System.Drawing.Size(28, 21);
@@ -4671,7 +4629,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC20G6
             // 
-            this.txtGroupMemC20G6.Location = new System.Drawing.Point(277, 562);
+            this.txtGroupMemC20G6.Location = new System.Drawing.Point(175, 558);
             this.txtGroupMemC20G6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC20G6.Name = "txtGroupMemC20G6";
             this.txtGroupMemC20G6.Size = new System.Drawing.Size(28, 21);
@@ -4682,7 +4640,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC20G4
             // 
-            this.txtGroupMemC20G4.Location = new System.Drawing.Point(209, 562);
+            this.txtGroupMemC20G4.Location = new System.Drawing.Point(107, 558);
             this.txtGroupMemC20G4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC20G4.Name = "txtGroupMemC20G4";
             this.txtGroupMemC20G4.Size = new System.Drawing.Size(28, 21);
@@ -4693,7 +4651,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC12G6
             // 
-            this.txtGroupMemC12G6.Location = new System.Drawing.Point(277, 354);
+            this.txtGroupMemC12G6.Location = new System.Drawing.Point(175, 350);
             this.txtGroupMemC12G6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC12G6.Name = "txtGroupMemC12G6";
             this.txtGroupMemC12G6.Size = new System.Drawing.Size(28, 21);
@@ -4704,7 +4662,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC12G4
             // 
-            this.txtGroupMemC12G4.Location = new System.Drawing.Point(209, 354);
+            this.txtGroupMemC12G4.Location = new System.Drawing.Point(107, 350);
             this.txtGroupMemC12G4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC12G4.Name = "txtGroupMemC12G4";
             this.txtGroupMemC12G4.Size = new System.Drawing.Size(28, 21);
@@ -4715,7 +4673,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC14G6
             // 
-            this.txtGroupMemC14G6.Location = new System.Drawing.Point(277, 406);
+            this.txtGroupMemC14G6.Location = new System.Drawing.Point(175, 402);
             this.txtGroupMemC14G6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC14G6.Name = "txtGroupMemC14G6";
             this.txtGroupMemC14G6.Size = new System.Drawing.Size(28, 21);
@@ -4727,7 +4685,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC14G4
             // 
-            this.txtGroupMemC14G4.Location = new System.Drawing.Point(209, 406);
+            this.txtGroupMemC14G4.Location = new System.Drawing.Point(107, 402);
             this.txtGroupMemC14G4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC14G4.Name = "txtGroupMemC14G4";
             this.txtGroupMemC14G4.Size = new System.Drawing.Size(28, 21);
@@ -4739,7 +4697,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC6G6
             // 
-            this.txtGroupMemC6G6.Location = new System.Drawing.Point(277, 198);
+            this.txtGroupMemC6G6.Location = new System.Drawing.Point(175, 194);
             this.txtGroupMemC6G6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC6G6.Name = "txtGroupMemC6G6";
             this.txtGroupMemC6G6.Size = new System.Drawing.Size(28, 21);
@@ -4750,7 +4708,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC6G4
             // 
-            this.txtGroupMemC6G4.Location = new System.Drawing.Point(209, 198);
+            this.txtGroupMemC6G4.Location = new System.Drawing.Point(107, 194);
             this.txtGroupMemC6G4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC6G4.Name = "txtGroupMemC6G4";
             this.txtGroupMemC6G4.Size = new System.Drawing.Size(28, 21);
@@ -4761,7 +4719,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC17G6
             // 
-            this.txtGroupMemC17G6.Location = new System.Drawing.Point(277, 484);
+            this.txtGroupMemC17G6.Location = new System.Drawing.Point(175, 480);
             this.txtGroupMemC17G6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC17G6.Name = "txtGroupMemC17G6";
             this.txtGroupMemC17G6.Size = new System.Drawing.Size(28, 21);
@@ -4772,7 +4730,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC17G4
             // 
-            this.txtGroupMemC17G4.Location = new System.Drawing.Point(209, 484);
+            this.txtGroupMemC17G4.Location = new System.Drawing.Point(107, 480);
             this.txtGroupMemC17G4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC17G4.Name = "txtGroupMemC17G4";
             this.txtGroupMemC17G4.Size = new System.Drawing.Size(28, 21);
@@ -4783,7 +4741,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC9G6
             // 
-            this.txtGroupMemC9G6.Location = new System.Drawing.Point(277, 276);
+            this.txtGroupMemC9G6.Location = new System.Drawing.Point(175, 272);
             this.txtGroupMemC9G6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC9G6.Name = "txtGroupMemC9G6";
             this.txtGroupMemC9G6.Size = new System.Drawing.Size(28, 21);
@@ -4794,7 +4752,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC9G4
             // 
-            this.txtGroupMemC9G4.Location = new System.Drawing.Point(209, 276);
+            this.txtGroupMemC9G4.Location = new System.Drawing.Point(107, 272);
             this.txtGroupMemC9G4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC9G4.Name = "txtGroupMemC9G4";
             this.txtGroupMemC9G4.Size = new System.Drawing.Size(28, 21);
@@ -4805,7 +4763,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC3G6
             // 
-            this.txtGroupMemC3G6.Location = new System.Drawing.Point(277, 120);
+            this.txtGroupMemC3G6.Location = new System.Drawing.Point(175, 116);
             this.txtGroupMemC3G6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC3G6.Name = "txtGroupMemC3G6";
             this.txtGroupMemC3G6.Size = new System.Drawing.Size(28, 21);
@@ -4816,7 +4774,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC3G4
             // 
-            this.txtGroupMemC3G4.Location = new System.Drawing.Point(209, 120);
+            this.txtGroupMemC3G4.Location = new System.Drawing.Point(107, 116);
             this.txtGroupMemC3G4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC3G4.Name = "txtGroupMemC3G4";
             this.txtGroupMemC3G4.Size = new System.Drawing.Size(28, 21);
@@ -4827,7 +4785,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC20G3
             // 
-            this.txtGroupMemC20G3.Location = new System.Drawing.Point(175, 562);
+            this.txtGroupMemC20G3.Location = new System.Drawing.Point(73, 558);
             this.txtGroupMemC20G3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC20G3.Name = "txtGroupMemC20G3";
             this.txtGroupMemC20G3.Size = new System.Drawing.Size(28, 21);
@@ -4837,7 +4795,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC12G3
             // 
-            this.txtGroupMemC12G3.Location = new System.Drawing.Point(175, 354);
+            this.txtGroupMemC12G3.Location = new System.Drawing.Point(73, 350);
             this.txtGroupMemC12G3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC12G3.Name = "txtGroupMemC12G3";
             this.txtGroupMemC12G3.Size = new System.Drawing.Size(28, 21);
@@ -4847,7 +4805,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC20G2
             // 
-            this.txtGroupMemC20G2.Location = new System.Drawing.Point(141, 562);
+            this.txtGroupMemC20G2.Location = new System.Drawing.Point(39, 558);
             this.txtGroupMemC20G2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC20G2.Name = "txtGroupMemC20G2";
             this.txtGroupMemC20G2.Size = new System.Drawing.Size(28, 21);
@@ -4858,7 +4816,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC12G2
             // 
-            this.txtGroupMemC12G2.Location = new System.Drawing.Point(141, 354);
+            this.txtGroupMemC12G2.Location = new System.Drawing.Point(39, 350);
             this.txtGroupMemC12G2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC12G2.Name = "txtGroupMemC12G2";
             this.txtGroupMemC12G2.Size = new System.Drawing.Size(28, 21);
@@ -4869,7 +4827,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC14G3
             // 
-            this.txtGroupMemC14G3.Location = new System.Drawing.Point(175, 406);
+            this.txtGroupMemC14G3.Location = new System.Drawing.Point(73, 402);
             this.txtGroupMemC14G3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC14G3.Name = "txtGroupMemC14G3";
             this.txtGroupMemC14G3.Size = new System.Drawing.Size(28, 21);
@@ -4879,7 +4837,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC6G3
             // 
-            this.txtGroupMemC6G3.Location = new System.Drawing.Point(175, 198);
+            this.txtGroupMemC6G3.Location = new System.Drawing.Point(73, 194);
             this.txtGroupMemC6G3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC6G3.Name = "txtGroupMemC6G3";
             this.txtGroupMemC6G3.Size = new System.Drawing.Size(28, 21);
@@ -4889,7 +4847,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC17G3
             // 
-            this.txtGroupMemC17G3.Location = new System.Drawing.Point(175, 484);
+            this.txtGroupMemC17G3.Location = new System.Drawing.Point(73, 480);
             this.txtGroupMemC17G3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC17G3.Name = "txtGroupMemC17G3";
             this.txtGroupMemC17G3.Size = new System.Drawing.Size(28, 21);
@@ -4899,7 +4857,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC9G3
             // 
-            this.txtGroupMemC9G3.Location = new System.Drawing.Point(175, 276);
+            this.txtGroupMemC9G3.Location = new System.Drawing.Point(73, 272);
             this.txtGroupMemC9G3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC9G3.Name = "txtGroupMemC9G3";
             this.txtGroupMemC9G3.Size = new System.Drawing.Size(28, 21);
@@ -4909,7 +4867,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC14G2
             // 
-            this.txtGroupMemC14G2.Location = new System.Drawing.Point(141, 406);
+            this.txtGroupMemC14G2.Location = new System.Drawing.Point(39, 402);
             this.txtGroupMemC14G2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC14G2.Name = "txtGroupMemC14G2";
             this.txtGroupMemC14G2.Size = new System.Drawing.Size(28, 21);
@@ -4920,7 +4878,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC6G2
             // 
-            this.txtGroupMemC6G2.Location = new System.Drawing.Point(141, 198);
+            this.txtGroupMemC6G2.Location = new System.Drawing.Point(39, 194);
             this.txtGroupMemC6G2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC6G2.Name = "txtGroupMemC6G2";
             this.txtGroupMemC6G2.Size = new System.Drawing.Size(28, 21);
@@ -4931,7 +4889,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC20G1
             // 
-            this.txtGroupMemC20G1.Location = new System.Drawing.Point(107, 562);
+            this.txtGroupMemC20G1.Location = new System.Drawing.Point(5, 558);
             this.txtGroupMemC20G1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC20G1.Name = "txtGroupMemC20G1";
             this.txtGroupMemC20G1.Size = new System.Drawing.Size(28, 21);
@@ -4941,7 +4899,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC12G1
             // 
-            this.txtGroupMemC12G1.Location = new System.Drawing.Point(107, 354);
+            this.txtGroupMemC12G1.Location = new System.Drawing.Point(5, 350);
             this.txtGroupMemC12G1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC12G1.Name = "txtGroupMemC12G1";
             this.txtGroupMemC12G1.Size = new System.Drawing.Size(28, 21);
@@ -4951,7 +4909,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC3G3
             // 
-            this.txtGroupMemC3G3.Location = new System.Drawing.Point(175, 120);
+            this.txtGroupMemC3G3.Location = new System.Drawing.Point(73, 116);
             this.txtGroupMemC3G3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC3G3.Name = "txtGroupMemC3G3";
             this.txtGroupMemC3G3.Size = new System.Drawing.Size(28, 21);
@@ -4961,7 +4919,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC17G2
             // 
-            this.txtGroupMemC17G2.Location = new System.Drawing.Point(141, 484);
+            this.txtGroupMemC17G2.Location = new System.Drawing.Point(39, 480);
             this.txtGroupMemC17G2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC17G2.Name = "txtGroupMemC17G2";
             this.txtGroupMemC17G2.Size = new System.Drawing.Size(28, 21);
@@ -4972,7 +4930,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC9G2
             // 
-            this.txtGroupMemC9G2.Location = new System.Drawing.Point(141, 276);
+            this.txtGroupMemC9G2.Location = new System.Drawing.Point(39, 272);
             this.txtGroupMemC9G2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC9G2.Name = "txtGroupMemC9G2";
             this.txtGroupMemC9G2.Size = new System.Drawing.Size(28, 21);
@@ -4984,7 +4942,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC14G1
             // 
-            this.txtGroupMemC14G1.Location = new System.Drawing.Point(107, 406);
+            this.txtGroupMemC14G1.Location = new System.Drawing.Point(5, 402);
             this.txtGroupMemC14G1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC14G1.Name = "txtGroupMemC14G1";
             this.txtGroupMemC14G1.Size = new System.Drawing.Size(28, 21);
@@ -4994,7 +4952,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC6G1
             // 
-            this.txtGroupMemC6G1.Location = new System.Drawing.Point(107, 198);
+            this.txtGroupMemC6G1.Location = new System.Drawing.Point(5, 194);
             this.txtGroupMemC6G1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC6G1.Name = "txtGroupMemC6G1";
             this.txtGroupMemC6G1.Size = new System.Drawing.Size(28, 21);
@@ -5002,27 +4960,9 @@ namespace NumberProcessor_Global_2022
             this.txtGroupMemC6G1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.txtGroupMemC6G1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             // 
-            // label49
-            // 
-            this.label49.AutoSize = true;
-            this.label49.Location = new System.Drawing.Point(9, 570);
-            this.label49.Name = "label49";
-            this.label49.Size = new System.Drawing.Size(77, 15);
-            this.label49.TabIndex = 31;
-            this.label49.Text = "Criteria #20 :";
-            // 
-            // label41
-            // 
-            this.label41.AutoSize = true;
-            this.label41.Location = new System.Drawing.Point(9, 362);
-            this.label41.Name = "label41";
-            this.label41.Size = new System.Drawing.Size(77, 15);
-            this.label41.TabIndex = 31;
-            this.label41.Text = "Criteria #12 :";
-            // 
             // txtGroupMemC3G2
             // 
-            this.txtGroupMemC3G2.Location = new System.Drawing.Point(141, 120);
+            this.txtGroupMemC3G2.Location = new System.Drawing.Point(39, 116);
             this.txtGroupMemC3G2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC3G2.Name = "txtGroupMemC3G2";
             this.txtGroupMemC3G2.Size = new System.Drawing.Size(28, 21);
@@ -5033,7 +4973,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC17G1
             // 
-            this.txtGroupMemC17G1.Location = new System.Drawing.Point(107, 484);
+            this.txtGroupMemC17G1.Location = new System.Drawing.Point(5, 480);
             this.txtGroupMemC17G1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC17G1.Name = "txtGroupMemC17G1";
             this.txtGroupMemC17G1.Size = new System.Drawing.Size(28, 21);
@@ -5043,7 +4983,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC9G1
             // 
-            this.txtGroupMemC9G1.Location = new System.Drawing.Point(107, 276);
+            this.txtGroupMemC9G1.Location = new System.Drawing.Point(5, 272);
             this.txtGroupMemC9G1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC9G1.Name = "txtGroupMemC9G1";
             this.txtGroupMemC9G1.Size = new System.Drawing.Size(28, 21);
@@ -5052,27 +4992,9 @@ namespace NumberProcessor_Global_2022
             this.txtGroupMemC9G1.TextChanged += new System.EventHandler(this.textBox37_TextChanged);
             this.txtGroupMemC9G1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             // 
-            // label48
-            // 
-            this.label48.AutoSize = true;
-            this.label48.Location = new System.Drawing.Point(9, 414);
-            this.label48.Name = "label48";
-            this.label48.Size = new System.Drawing.Size(77, 15);
-            this.label48.TabIndex = 31;
-            this.label48.Text = "Criteria #14 :";
-            // 
-            // label35
-            // 
-            this.label35.AutoSize = true;
-            this.label35.Location = new System.Drawing.Point(9, 206);
-            this.label35.Name = "label35";
-            this.label35.Size = new System.Drawing.Size(76, 15);
-            this.label35.TabIndex = 31;
-            this.label35.Text = "Criteria # 6  :";
-            // 
             // txtGroupMemC19G7
             // 
-            this.txtGroupMemC19G7.Location = new System.Drawing.Point(311, 536);
+            this.txtGroupMemC19G7.Location = new System.Drawing.Point(209, 532);
             this.txtGroupMemC19G7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC19G7.Name = "txtGroupMemC19G7";
             this.txtGroupMemC19G7.Size = new System.Drawing.Size(28, 21);
@@ -5083,7 +5005,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC19G5
             // 
-            this.txtGroupMemC19G5.Location = new System.Drawing.Point(243, 536);
+            this.txtGroupMemC19G5.Location = new System.Drawing.Point(141, 532);
             this.txtGroupMemC19G5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC19G5.Name = "txtGroupMemC19G5";
             this.txtGroupMemC19G5.Size = new System.Drawing.Size(28, 21);
@@ -5094,7 +5016,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC11G7
             // 
-            this.txtGroupMemC11G7.Location = new System.Drawing.Point(311, 328);
+            this.txtGroupMemC11G7.Location = new System.Drawing.Point(209, 324);
             this.txtGroupMemC11G7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC11G7.Name = "txtGroupMemC11G7";
             this.txtGroupMemC11G7.Size = new System.Drawing.Size(28, 21);
@@ -5105,7 +5027,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC11G5
             // 
-            this.txtGroupMemC11G5.Location = new System.Drawing.Point(243, 328);
+            this.txtGroupMemC11G5.Location = new System.Drawing.Point(141, 324);
             this.txtGroupMemC11G5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC11G5.Name = "txtGroupMemC11G5";
             this.txtGroupMemC11G5.Size = new System.Drawing.Size(28, 21);
@@ -5116,7 +5038,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC3G1
             // 
-            this.txtGroupMemC3G1.Location = new System.Drawing.Point(107, 120);
+            this.txtGroupMemC3G1.Location = new System.Drawing.Point(5, 116);
             this.txtGroupMemC3G1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC3G1.Name = "txtGroupMemC3G1";
             this.txtGroupMemC3G1.Size = new System.Drawing.Size(28, 21);
@@ -5124,27 +5046,9 @@ namespace NumberProcessor_Global_2022
             this.txtGroupMemC3G1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.txtGroupMemC3G1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             // 
-            // label47
-            // 
-            this.label47.AutoSize = true;
-            this.label47.Location = new System.Drawing.Point(9, 492);
-            this.label47.Name = "label47";
-            this.label47.Size = new System.Drawing.Size(77, 15);
-            this.label47.TabIndex = 31;
-            this.label47.Text = "Criteria #17 :";
-            // 
-            // label40
-            // 
-            this.label40.AutoSize = true;
-            this.label40.Location = new System.Drawing.Point(9, 284);
-            this.label40.Name = "label40";
-            this.label40.Size = new System.Drawing.Size(76, 15);
-            this.label40.TabIndex = 31;
-            this.label40.Text = "Criteria # 9  :";
-            // 
             // txtGroupMemC13G7
             // 
-            this.txtGroupMemC13G7.Location = new System.Drawing.Point(311, 380);
+            this.txtGroupMemC13G7.Location = new System.Drawing.Point(209, 376);
             this.txtGroupMemC13G7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC13G7.Name = "txtGroupMemC13G7";
             this.txtGroupMemC13G7.Size = new System.Drawing.Size(28, 21);
@@ -5155,7 +5059,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC13G5
             // 
-            this.txtGroupMemC13G5.Location = new System.Drawing.Point(243, 380);
+            this.txtGroupMemC13G5.Location = new System.Drawing.Point(141, 376);
             this.txtGroupMemC13G5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC13G5.Name = "txtGroupMemC13G5";
             this.txtGroupMemC13G5.Size = new System.Drawing.Size(28, 21);
@@ -5166,7 +5070,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC5G7
             // 
-            this.txtGroupMemC5G7.Location = new System.Drawing.Point(311, 172);
+            this.txtGroupMemC5G7.Location = new System.Drawing.Point(209, 168);
             this.txtGroupMemC5G7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC5G7.Name = "txtGroupMemC5G7";
             this.txtGroupMemC5G7.Size = new System.Drawing.Size(28, 21);
@@ -5178,7 +5082,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC5G5
             // 
-            this.txtGroupMemC5G5.Location = new System.Drawing.Point(243, 172);
+            this.txtGroupMemC5G5.Location = new System.Drawing.Point(141, 168);
             this.txtGroupMemC5G5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC5G5.Name = "txtGroupMemC5G5";
             this.txtGroupMemC5G5.Size = new System.Drawing.Size(28, 21);
@@ -5190,7 +5094,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC19G6
             // 
-            this.txtGroupMemC19G6.Location = new System.Drawing.Point(277, 536);
+            this.txtGroupMemC19G6.Location = new System.Drawing.Point(175, 532);
             this.txtGroupMemC19G6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC19G6.Name = "txtGroupMemC19G6";
             this.txtGroupMemC19G6.Size = new System.Drawing.Size(28, 21);
@@ -5200,7 +5104,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC19G4
             // 
-            this.txtGroupMemC19G4.Location = new System.Drawing.Point(209, 536);
+            this.txtGroupMemC19G4.Location = new System.Drawing.Point(107, 532);
             this.txtGroupMemC19G4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC19G4.Name = "txtGroupMemC19G4";
             this.txtGroupMemC19G4.Size = new System.Drawing.Size(28, 21);
@@ -5210,7 +5114,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC11G6
             // 
-            this.txtGroupMemC11G6.Location = new System.Drawing.Point(277, 328);
+            this.txtGroupMemC11G6.Location = new System.Drawing.Point(175, 324);
             this.txtGroupMemC11G6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC11G6.Name = "txtGroupMemC11G6";
             this.txtGroupMemC11G6.Size = new System.Drawing.Size(28, 21);
@@ -5220,7 +5124,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC11G4
             // 
-            this.txtGroupMemC11G4.Location = new System.Drawing.Point(209, 328);
+            this.txtGroupMemC11G4.Location = new System.Drawing.Point(107, 324);
             this.txtGroupMemC11G4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC11G4.Name = "txtGroupMemC11G4";
             this.txtGroupMemC11G4.Size = new System.Drawing.Size(28, 21);
@@ -5228,18 +5132,9 @@ namespace NumberProcessor_Global_2022
             this.txtGroupMemC11G4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.txtGroupMemC11G4.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             // 
-            // label13
-            // 
-            this.label13.AutoSize = true;
-            this.label13.Location = new System.Drawing.Point(9, 128);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(76, 15);
-            this.label13.TabIndex = 31;
-            this.label13.Text = "Criteria # 3  :";
-            // 
             // txtGroupMemC16G7
             // 
-            this.txtGroupMemC16G7.Location = new System.Drawing.Point(311, 458);
+            this.txtGroupMemC16G7.Location = new System.Drawing.Point(209, 454);
             this.txtGroupMemC16G7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC16G7.Name = "txtGroupMemC16G7";
             this.txtGroupMemC16G7.Size = new System.Drawing.Size(28, 21);
@@ -5251,7 +5146,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC16G5
             // 
-            this.txtGroupMemC16G5.Location = new System.Drawing.Point(243, 458);
+            this.txtGroupMemC16G5.Location = new System.Drawing.Point(141, 454);
             this.txtGroupMemC16G5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC16G5.Name = "txtGroupMemC16G5";
             this.txtGroupMemC16G5.Size = new System.Drawing.Size(28, 21);
@@ -5263,7 +5158,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC8G7
             // 
-            this.txtGroupMemC8G7.Location = new System.Drawing.Point(311, 250);
+            this.txtGroupMemC8G7.Location = new System.Drawing.Point(209, 246);
             this.txtGroupMemC8G7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC8G7.Name = "txtGroupMemC8G7";
             this.txtGroupMemC8G7.Size = new System.Drawing.Size(28, 21);
@@ -5274,7 +5169,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC8G5
             // 
-            this.txtGroupMemC8G5.Location = new System.Drawing.Point(243, 250);
+            this.txtGroupMemC8G5.Location = new System.Drawing.Point(141, 246);
             this.txtGroupMemC8G5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC8G5.Name = "txtGroupMemC8G5";
             this.txtGroupMemC8G5.Size = new System.Drawing.Size(28, 21);
@@ -5285,7 +5180,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC13G6
             // 
-            this.txtGroupMemC13G6.Location = new System.Drawing.Point(277, 380);
+            this.txtGroupMemC13G6.Location = new System.Drawing.Point(175, 376);
             this.txtGroupMemC13G6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC13G6.Name = "txtGroupMemC13G6";
             this.txtGroupMemC13G6.Size = new System.Drawing.Size(28, 21);
@@ -5295,7 +5190,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC13G4
             // 
-            this.txtGroupMemC13G4.Location = new System.Drawing.Point(209, 380);
+            this.txtGroupMemC13G4.Location = new System.Drawing.Point(107, 376);
             this.txtGroupMemC13G4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC13G4.Name = "txtGroupMemC13G4";
             this.txtGroupMemC13G4.Size = new System.Drawing.Size(28, 21);
@@ -5305,7 +5200,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC5G6
             // 
-            this.txtGroupMemC5G6.Location = new System.Drawing.Point(277, 172);
+            this.txtGroupMemC5G6.Location = new System.Drawing.Point(175, 168);
             this.txtGroupMemC5G6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC5G6.Name = "txtGroupMemC5G6";
             this.txtGroupMemC5G6.Size = new System.Drawing.Size(28, 21);
@@ -5315,7 +5210,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC5G4
             // 
-            this.txtGroupMemC5G4.Location = new System.Drawing.Point(209, 172);
+            this.txtGroupMemC5G4.Location = new System.Drawing.Point(107, 168);
             this.txtGroupMemC5G4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC5G4.Name = "txtGroupMemC5G4";
             this.txtGroupMemC5G4.Size = new System.Drawing.Size(28, 21);
@@ -5325,7 +5220,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC19G3
             // 
-            this.txtGroupMemC19G3.Location = new System.Drawing.Point(175, 536);
+            this.txtGroupMemC19G3.Location = new System.Drawing.Point(73, 532);
             this.txtGroupMemC19G3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC19G3.Name = "txtGroupMemC19G3";
             this.txtGroupMemC19G3.Size = new System.Drawing.Size(28, 21);
@@ -5335,7 +5230,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC11G3
             // 
-            this.txtGroupMemC11G3.Location = new System.Drawing.Point(175, 328);
+            this.txtGroupMemC11G3.Location = new System.Drawing.Point(73, 324);
             this.txtGroupMemC11G3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC11G3.Name = "txtGroupMemC11G3";
             this.txtGroupMemC11G3.Size = new System.Drawing.Size(28, 21);
@@ -5345,7 +5240,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC2G7
             // 
-            this.txtGroupMemC2G7.Location = new System.Drawing.Point(311, 94);
+            this.txtGroupMemC2G7.Location = new System.Drawing.Point(209, 90);
             this.txtGroupMemC2G7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC2G7.Name = "txtGroupMemC2G7";
             this.txtGroupMemC2G7.Size = new System.Drawing.Size(28, 21);
@@ -5356,7 +5251,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC2G5
             // 
-            this.txtGroupMemC2G5.Location = new System.Drawing.Point(243, 94);
+            this.txtGroupMemC2G5.Location = new System.Drawing.Point(141, 90);
             this.txtGroupMemC2G5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC2G5.Name = "txtGroupMemC2G5";
             this.txtGroupMemC2G5.Size = new System.Drawing.Size(28, 21);
@@ -5367,7 +5262,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC16G6
             // 
-            this.txtGroupMemC16G6.Location = new System.Drawing.Point(277, 458);
+            this.txtGroupMemC16G6.Location = new System.Drawing.Point(175, 454);
             this.txtGroupMemC16G6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC16G6.Name = "txtGroupMemC16G6";
             this.txtGroupMemC16G6.Size = new System.Drawing.Size(28, 21);
@@ -5377,7 +5272,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC16G4
             // 
-            this.txtGroupMemC16G4.Location = new System.Drawing.Point(209, 458);
+            this.txtGroupMemC16G4.Location = new System.Drawing.Point(107, 454);
             this.txtGroupMemC16G4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC16G4.Name = "txtGroupMemC16G4";
             this.txtGroupMemC16G4.Size = new System.Drawing.Size(28, 21);
@@ -5387,7 +5282,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC8G6
             // 
-            this.txtGroupMemC8G6.Location = new System.Drawing.Point(277, 250);
+            this.txtGroupMemC8G6.Location = new System.Drawing.Point(175, 246);
             this.txtGroupMemC8G6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC8G6.Name = "txtGroupMemC8G6";
             this.txtGroupMemC8G6.Size = new System.Drawing.Size(28, 21);
@@ -5397,7 +5292,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC8G4
             // 
-            this.txtGroupMemC8G4.Location = new System.Drawing.Point(209, 250);
+            this.txtGroupMemC8G4.Location = new System.Drawing.Point(107, 246);
             this.txtGroupMemC8G4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC8G4.Name = "txtGroupMemC8G4";
             this.txtGroupMemC8G4.Size = new System.Drawing.Size(28, 21);
@@ -5407,7 +5302,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC13G3
             // 
-            this.txtGroupMemC13G3.Location = new System.Drawing.Point(175, 380);
+            this.txtGroupMemC13G3.Location = new System.Drawing.Point(73, 376);
             this.txtGroupMemC13G3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC13G3.Name = "txtGroupMemC13G3";
             this.txtGroupMemC13G3.Size = new System.Drawing.Size(28, 21);
@@ -5418,7 +5313,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC5G3
             // 
-            this.txtGroupMemC5G3.Location = new System.Drawing.Point(175, 172);
+            this.txtGroupMemC5G3.Location = new System.Drawing.Point(73, 168);
             this.txtGroupMemC5G3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC5G3.Name = "txtGroupMemC5G3";
             this.txtGroupMemC5G3.Size = new System.Drawing.Size(28, 21);
@@ -5428,7 +5323,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC19G2
             // 
-            this.txtGroupMemC19G2.Location = new System.Drawing.Point(141, 536);
+            this.txtGroupMemC19G2.Location = new System.Drawing.Point(39, 532);
             this.txtGroupMemC19G2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC19G2.Name = "txtGroupMemC19G2";
             this.txtGroupMemC19G2.Size = new System.Drawing.Size(28, 21);
@@ -5438,7 +5333,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC11G2
             // 
-            this.txtGroupMemC11G2.Location = new System.Drawing.Point(141, 328);
+            this.txtGroupMemC11G2.Location = new System.Drawing.Point(39, 324);
             this.txtGroupMemC11G2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC11G2.Name = "txtGroupMemC11G2";
             this.txtGroupMemC11G2.Size = new System.Drawing.Size(28, 21);
@@ -5448,7 +5343,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC2G6
             // 
-            this.txtGroupMemC2G6.Location = new System.Drawing.Point(277, 94);
+            this.txtGroupMemC2G6.Location = new System.Drawing.Point(175, 90);
             this.txtGroupMemC2G6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC2G6.Name = "txtGroupMemC2G6";
             this.txtGroupMemC2G6.Size = new System.Drawing.Size(28, 21);
@@ -5458,7 +5353,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC2G4
             // 
-            this.txtGroupMemC2G4.Location = new System.Drawing.Point(209, 94);
+            this.txtGroupMemC2G4.Location = new System.Drawing.Point(107, 90);
             this.txtGroupMemC2G4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC2G4.Name = "txtGroupMemC2G4";
             this.txtGroupMemC2G4.Size = new System.Drawing.Size(28, 21);
@@ -5468,7 +5363,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC16G3
             // 
-            this.txtGroupMemC16G3.Location = new System.Drawing.Point(175, 458);
+            this.txtGroupMemC16G3.Location = new System.Drawing.Point(73, 454);
             this.txtGroupMemC16G3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC16G3.Name = "txtGroupMemC16G3";
             this.txtGroupMemC16G3.Size = new System.Drawing.Size(28, 21);
@@ -5478,7 +5373,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC8G3
             // 
-            this.txtGroupMemC8G3.Location = new System.Drawing.Point(175, 250);
+            this.txtGroupMemC8G3.Location = new System.Drawing.Point(73, 246);
             this.txtGroupMemC8G3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC8G3.Name = "txtGroupMemC8G3";
             this.txtGroupMemC8G3.Size = new System.Drawing.Size(28, 21);
@@ -5488,7 +5383,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC13G2
             // 
-            this.txtGroupMemC13G2.Location = new System.Drawing.Point(141, 380);
+            this.txtGroupMemC13G2.Location = new System.Drawing.Point(39, 376);
             this.txtGroupMemC13G2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC13G2.Name = "txtGroupMemC13G2";
             this.txtGroupMemC13G2.Size = new System.Drawing.Size(28, 21);
@@ -5498,7 +5393,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC5G2
             // 
-            this.txtGroupMemC5G2.Location = new System.Drawing.Point(141, 172);
+            this.txtGroupMemC5G2.Location = new System.Drawing.Point(39, 168);
             this.txtGroupMemC5G2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC5G2.Name = "txtGroupMemC5G2";
             this.txtGroupMemC5G2.Size = new System.Drawing.Size(28, 21);
@@ -5508,7 +5403,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC19G1
             // 
-            this.txtGroupMemC19G1.Location = new System.Drawing.Point(107, 536);
+            this.txtGroupMemC19G1.Location = new System.Drawing.Point(5, 532);
             this.txtGroupMemC19G1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC19G1.Name = "txtGroupMemC19G1";
             this.txtGroupMemC19G1.Size = new System.Drawing.Size(28, 21);
@@ -5519,7 +5414,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC11G1
             // 
-            this.txtGroupMemC11G1.Location = new System.Drawing.Point(107, 328);
+            this.txtGroupMemC11G1.Location = new System.Drawing.Point(5, 324);
             this.txtGroupMemC11G1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC11G1.Name = "txtGroupMemC11G1";
             this.txtGroupMemC11G1.Size = new System.Drawing.Size(28, 21);
@@ -5530,7 +5425,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC2G3
             // 
-            this.txtGroupMemC2G3.Location = new System.Drawing.Point(175, 94);
+            this.txtGroupMemC2G3.Location = new System.Drawing.Point(73, 90);
             this.txtGroupMemC2G3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC2G3.Name = "txtGroupMemC2G3";
             this.txtGroupMemC2G3.Size = new System.Drawing.Size(28, 21);
@@ -5540,7 +5435,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC16G2
             // 
-            this.txtGroupMemC16G2.Location = new System.Drawing.Point(141, 458);
+            this.txtGroupMemC16G2.Location = new System.Drawing.Point(39, 454);
             this.txtGroupMemC16G2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC16G2.Name = "txtGroupMemC16G2";
             this.txtGroupMemC16G2.Size = new System.Drawing.Size(28, 21);
@@ -5550,7 +5445,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC8G2
             // 
-            this.txtGroupMemC8G2.Location = new System.Drawing.Point(141, 250);
+            this.txtGroupMemC8G2.Location = new System.Drawing.Point(39, 246);
             this.txtGroupMemC8G2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC8G2.Name = "txtGroupMemC8G2";
             this.txtGroupMemC8G2.Size = new System.Drawing.Size(28, 21);
@@ -5560,7 +5455,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC13G1
             // 
-            this.txtGroupMemC13G1.Location = new System.Drawing.Point(107, 380);
+            this.txtGroupMemC13G1.Location = new System.Drawing.Point(5, 376);
             this.txtGroupMemC13G1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC13G1.Name = "txtGroupMemC13G1";
             this.txtGroupMemC13G1.Size = new System.Drawing.Size(28, 21);
@@ -5571,7 +5466,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC5G1
             // 
-            this.txtGroupMemC5G1.Location = new System.Drawing.Point(107, 172);
+            this.txtGroupMemC5G1.Location = new System.Drawing.Point(5, 168);
             this.txtGroupMemC5G1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC5G1.Name = "txtGroupMemC5G1";
             this.txtGroupMemC5G1.Size = new System.Drawing.Size(28, 21);
@@ -5580,27 +5475,9 @@ namespace NumberProcessor_Global_2022
             this.txtGroupMemC5G1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.txtGroupMemC5G1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             // 
-            // label46
-            // 
-            this.label46.AutoSize = true;
-            this.label46.Location = new System.Drawing.Point(9, 544);
-            this.label46.Name = "label46";
-            this.label46.Size = new System.Drawing.Size(77, 15);
-            this.label46.TabIndex = 25;
-            this.label46.Text = "Criteria #19 :";
-            // 
-            // label39
-            // 
-            this.label39.AutoSize = true;
-            this.label39.Location = new System.Drawing.Point(9, 336);
-            this.label39.Name = "label39";
-            this.label39.Size = new System.Drawing.Size(76, 15);
-            this.label39.TabIndex = 25;
-            this.label39.Text = "Criteria #11 :";
-            // 
             // txtGroupMemC2G2
             // 
-            this.txtGroupMemC2G2.Location = new System.Drawing.Point(141, 94);
+            this.txtGroupMemC2G2.Location = new System.Drawing.Point(39, 90);
             this.txtGroupMemC2G2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC2G2.Name = "txtGroupMemC2G2";
             this.txtGroupMemC2G2.Size = new System.Drawing.Size(28, 21);
@@ -5610,7 +5487,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC16G1
             // 
-            this.txtGroupMemC16G1.Location = new System.Drawing.Point(107, 458);
+            this.txtGroupMemC16G1.Location = new System.Drawing.Point(5, 454);
             this.txtGroupMemC16G1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC16G1.Name = "txtGroupMemC16G1";
             this.txtGroupMemC16G1.Size = new System.Drawing.Size(28, 21);
@@ -5621,7 +5498,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC8G1
             // 
-            this.txtGroupMemC8G1.Location = new System.Drawing.Point(107, 250);
+            this.txtGroupMemC8G1.Location = new System.Drawing.Point(5, 246);
             this.txtGroupMemC8G1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC8G1.Name = "txtGroupMemC8G1";
             this.txtGroupMemC8G1.Size = new System.Drawing.Size(28, 21);
@@ -5630,27 +5507,9 @@ namespace NumberProcessor_Global_2022
             this.txtGroupMemC8G1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.txtGroupMemC8G1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             // 
-            // label45
-            // 
-            this.label45.AutoSize = true;
-            this.label45.Location = new System.Drawing.Point(9, 388);
-            this.label45.Name = "label45";
-            this.label45.Size = new System.Drawing.Size(77, 15);
-            this.label45.TabIndex = 25;
-            this.label45.Text = "Criteria #13 :";
-            // 
-            // label34
-            // 
-            this.label34.AutoSize = true;
-            this.label34.Location = new System.Drawing.Point(9, 180);
-            this.label34.Name = "label34";
-            this.label34.Size = new System.Drawing.Size(76, 15);
-            this.label34.TabIndex = 25;
-            this.label34.Text = "Criteria # 5  :";
-            // 
             // txtGroupMemC18G7
             // 
-            this.txtGroupMemC18G7.Location = new System.Drawing.Point(311, 510);
+            this.txtGroupMemC18G7.Location = new System.Drawing.Point(209, 506);
             this.txtGroupMemC18G7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC18G7.Name = "txtGroupMemC18G7";
             this.txtGroupMemC18G7.Size = new System.Drawing.Size(28, 21);
@@ -5661,7 +5520,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC18G5
             // 
-            this.txtGroupMemC18G5.Location = new System.Drawing.Point(243, 510);
+            this.txtGroupMemC18G5.Location = new System.Drawing.Point(141, 506);
             this.txtGroupMemC18G5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC18G5.Name = "txtGroupMemC18G5";
             this.txtGroupMemC18G5.Size = new System.Drawing.Size(28, 21);
@@ -5672,7 +5531,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC10G7
             // 
-            this.txtGroupMemC10G7.Location = new System.Drawing.Point(311, 302);
+            this.txtGroupMemC10G7.Location = new System.Drawing.Point(209, 298);
             this.txtGroupMemC10G7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC10G7.Name = "txtGroupMemC10G7";
             this.txtGroupMemC10G7.Size = new System.Drawing.Size(28, 21);
@@ -5682,7 +5541,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC10G5
             // 
-            this.txtGroupMemC10G5.Location = new System.Drawing.Point(243, 302);
+            this.txtGroupMemC10G5.Location = new System.Drawing.Point(141, 298);
             this.txtGroupMemC10G5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC10G5.Name = "txtGroupMemC10G5";
             this.txtGroupMemC10G5.Size = new System.Drawing.Size(28, 21);
@@ -5693,7 +5552,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC2G1
             // 
-            this.txtGroupMemC2G1.Location = new System.Drawing.Point(107, 94);
+            this.txtGroupMemC2G1.Location = new System.Drawing.Point(5, 90);
             this.txtGroupMemC2G1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC2G1.Name = "txtGroupMemC2G1";
             this.txtGroupMemC2G1.Size = new System.Drawing.Size(28, 21);
@@ -5702,27 +5561,9 @@ namespace NumberProcessor_Global_2022
             this.txtGroupMemC2G1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.txtGroupMemC2G1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             // 
-            // label44
-            // 
-            this.label44.AutoSize = true;
-            this.label44.Location = new System.Drawing.Point(9, 466);
-            this.label44.Name = "label44";
-            this.label44.Size = new System.Drawing.Size(77, 15);
-            this.label44.TabIndex = 25;
-            this.label44.Text = "Criteria #16 :";
-            // 
-            // label38
-            // 
-            this.label38.AutoSize = true;
-            this.label38.Location = new System.Drawing.Point(9, 258);
-            this.label38.Name = "label38";
-            this.label38.Size = new System.Drawing.Size(76, 15);
-            this.label38.TabIndex = 25;
-            this.label38.Text = "Criteria # 8  :";
-            // 
             // txtGroupMemC4G7
             // 
-            this.txtGroupMemC4G7.Location = new System.Drawing.Point(311, 146);
+            this.txtGroupMemC4G7.Location = new System.Drawing.Point(209, 142);
             this.txtGroupMemC4G7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC4G7.Name = "txtGroupMemC4G7";
             this.txtGroupMemC4G7.Size = new System.Drawing.Size(28, 21);
@@ -5732,7 +5573,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC4G5
             // 
-            this.txtGroupMemC4G5.Location = new System.Drawing.Point(243, 146);
+            this.txtGroupMemC4G5.Location = new System.Drawing.Point(141, 142);
             this.txtGroupMemC4G5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC4G5.Name = "txtGroupMemC4G5";
             this.txtGroupMemC4G5.Size = new System.Drawing.Size(28, 21);
@@ -5742,7 +5583,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC15G7
             // 
-            this.txtGroupMemC15G7.Location = new System.Drawing.Point(311, 432);
+            this.txtGroupMemC15G7.Location = new System.Drawing.Point(209, 428);
             this.txtGroupMemC15G7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC15G7.Name = "txtGroupMemC15G7";
             this.txtGroupMemC15G7.Size = new System.Drawing.Size(28, 21);
@@ -5752,7 +5593,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC15G5
             // 
-            this.txtGroupMemC15G5.Location = new System.Drawing.Point(243, 432);
+            this.txtGroupMemC15G5.Location = new System.Drawing.Point(141, 428);
             this.txtGroupMemC15G5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC15G5.Name = "txtGroupMemC15G5";
             this.txtGroupMemC15G5.Size = new System.Drawing.Size(28, 21);
@@ -5762,7 +5603,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC7G7
             // 
-            this.txtGroupMemC7G7.Location = new System.Drawing.Point(311, 224);
+            this.txtGroupMemC7G7.Location = new System.Drawing.Point(209, 220);
             this.txtGroupMemC7G7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC7G7.Name = "txtGroupMemC7G7";
             this.txtGroupMemC7G7.Size = new System.Drawing.Size(28, 21);
@@ -5772,7 +5613,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC7G5
             // 
-            this.txtGroupMemC7G5.Location = new System.Drawing.Point(243, 224);
+            this.txtGroupMemC7G5.Location = new System.Drawing.Point(141, 220);
             this.txtGroupMemC7G5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC7G5.Name = "txtGroupMemC7G5";
             this.txtGroupMemC7G5.Size = new System.Drawing.Size(28, 21);
@@ -5780,18 +5621,9 @@ namespace NumberProcessor_Global_2022
             this.txtGroupMemC7G5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.txtGroupMemC7G5.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             // 
-            // label12
-            // 
-            this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(9, 102);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(76, 15);
-            this.label12.TabIndex = 25;
-            this.label12.Text = "Criteria # 2  :";
-            // 
             // txtGroupMemC18G6
             // 
-            this.txtGroupMemC18G6.Location = new System.Drawing.Point(277, 510);
+            this.txtGroupMemC18G6.Location = new System.Drawing.Point(175, 506);
             this.txtGroupMemC18G6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC18G6.Name = "txtGroupMemC18G6";
             this.txtGroupMemC18G6.Size = new System.Drawing.Size(28, 21);
@@ -5802,7 +5634,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC18G4
             // 
-            this.txtGroupMemC18G4.Location = new System.Drawing.Point(209, 510);
+            this.txtGroupMemC18G4.Location = new System.Drawing.Point(107, 506);
             this.txtGroupMemC18G4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC18G4.Name = "txtGroupMemC18G4";
             this.txtGroupMemC18G4.Size = new System.Drawing.Size(28, 21);
@@ -5813,7 +5645,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC10G6
             // 
-            this.txtGroupMemC10G6.Location = new System.Drawing.Point(277, 302);
+            this.txtGroupMemC10G6.Location = new System.Drawing.Point(175, 298);
             this.txtGroupMemC10G6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC10G6.Name = "txtGroupMemC10G6";
             this.txtGroupMemC10G6.Size = new System.Drawing.Size(28, 21);
@@ -5825,7 +5657,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC10G4
             // 
-            this.txtGroupMemC10G4.Location = new System.Drawing.Point(209, 302);
+            this.txtGroupMemC10G4.Location = new System.Drawing.Point(107, 298);
             this.txtGroupMemC10G4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC10G4.Name = "txtGroupMemC10G4";
             this.txtGroupMemC10G4.Size = new System.Drawing.Size(28, 21);
@@ -5836,7 +5668,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC1G7
             // 
-            this.txtGroupMemC1G7.Location = new System.Drawing.Point(311, 68);
+            this.txtGroupMemC1G7.Location = new System.Drawing.Point(209, 64);
             this.txtGroupMemC1G7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC1G7.Name = "txtGroupMemC1G7";
             this.txtGroupMemC1G7.Size = new System.Drawing.Size(28, 21);
@@ -5846,7 +5678,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC15G6
             // 
-            this.txtGroupMemC15G6.Location = new System.Drawing.Point(277, 432);
+            this.txtGroupMemC15G6.Location = new System.Drawing.Point(175, 428);
             this.txtGroupMemC15G6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC15G6.Name = "txtGroupMemC15G6";
             this.txtGroupMemC15G6.Size = new System.Drawing.Size(28, 21);
@@ -5857,7 +5689,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC1G5
             // 
-            this.txtGroupMemC1G5.Location = new System.Drawing.Point(243, 68);
+            this.txtGroupMemC1G5.Location = new System.Drawing.Point(141, 64);
             this.txtGroupMemC1G5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC1G5.Name = "txtGroupMemC1G5";
             this.txtGroupMemC1G5.Size = new System.Drawing.Size(28, 21);
@@ -5867,7 +5699,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC4G6
             // 
-            this.txtGroupMemC4G6.Location = new System.Drawing.Point(277, 146);
+            this.txtGroupMemC4G6.Location = new System.Drawing.Point(175, 142);
             this.txtGroupMemC4G6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC4G6.Name = "txtGroupMemC4G6";
             this.txtGroupMemC4G6.Size = new System.Drawing.Size(28, 21);
@@ -5878,7 +5710,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC15G4
             // 
-            this.txtGroupMemC15G4.Location = new System.Drawing.Point(209, 432);
+            this.txtGroupMemC15G4.Location = new System.Drawing.Point(107, 428);
             this.txtGroupMemC15G4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC15G4.Name = "txtGroupMemC15G4";
             this.txtGroupMemC15G4.Size = new System.Drawing.Size(28, 21);
@@ -5889,7 +5721,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC7G6
             // 
-            this.txtGroupMemC7G6.Location = new System.Drawing.Point(277, 224);
+            this.txtGroupMemC7G6.Location = new System.Drawing.Point(175, 220);
             this.txtGroupMemC7G6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC7G6.Name = "txtGroupMemC7G6";
             this.txtGroupMemC7G6.Size = new System.Drawing.Size(28, 21);
@@ -5900,7 +5732,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC4G4
             // 
-            this.txtGroupMemC4G4.Location = new System.Drawing.Point(209, 146);
+            this.txtGroupMemC4G4.Location = new System.Drawing.Point(107, 142);
             this.txtGroupMemC4G4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC4G4.Name = "txtGroupMemC4G4";
             this.txtGroupMemC4G4.Size = new System.Drawing.Size(28, 21);
@@ -5911,7 +5743,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC7G4
             // 
-            this.txtGroupMemC7G4.Location = new System.Drawing.Point(209, 224);
+            this.txtGroupMemC7G4.Location = new System.Drawing.Point(107, 220);
             this.txtGroupMemC7G4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC7G4.Name = "txtGroupMemC7G4";
             this.txtGroupMemC7G4.Size = new System.Drawing.Size(28, 21);
@@ -5923,7 +5755,7 @@ namespace NumberProcessor_Global_2022
             // label53
             // 
             this.label53.AutoSize = true;
-            this.label53.Location = new System.Drawing.Point(309, 50);
+            this.label53.Location = new System.Drawing.Point(207, 46);
             this.label53.Name = "label53";
             this.label53.Size = new System.Drawing.Size(23, 15);
             this.label53.TabIndex = 23;
@@ -5931,7 +5763,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC18G3
             // 
-            this.txtGroupMemC18G3.Location = new System.Drawing.Point(175, 510);
+            this.txtGroupMemC18G3.Location = new System.Drawing.Point(73, 506);
             this.txtGroupMemC18G3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC18G3.Name = "txtGroupMemC18G3";
             this.txtGroupMemC18G3.Size = new System.Drawing.Size(28, 21);
@@ -5942,7 +5774,7 @@ namespace NumberProcessor_Global_2022
             // label11
             // 
             this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(244, 50);
+            this.label11.Location = new System.Drawing.Point(142, 46);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(23, 15);
             this.label11.TabIndex = 23;
@@ -5950,7 +5782,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC1G6
             // 
-            this.txtGroupMemC1G6.Location = new System.Drawing.Point(277, 68);
+            this.txtGroupMemC1G6.Location = new System.Drawing.Point(175, 64);
             this.txtGroupMemC1G6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC1G6.Name = "txtGroupMemC1G6";
             this.txtGroupMemC1G6.Size = new System.Drawing.Size(28, 21);
@@ -5961,7 +5793,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC10G3
             // 
-            this.txtGroupMemC10G3.Location = new System.Drawing.Point(175, 302);
+            this.txtGroupMemC10G3.Location = new System.Drawing.Point(73, 298);
             this.txtGroupMemC10G3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC10G3.Name = "txtGroupMemC10G3";
             this.txtGroupMemC10G3.Size = new System.Drawing.Size(28, 21);
@@ -5971,7 +5803,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC1G4
             // 
-            this.txtGroupMemC1G4.Location = new System.Drawing.Point(209, 68);
+            this.txtGroupMemC1G4.Location = new System.Drawing.Point(107, 64);
             this.txtGroupMemC1G4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC1G4.Name = "txtGroupMemC1G4";
             this.txtGroupMemC1G4.Size = new System.Drawing.Size(28, 21);
@@ -5982,7 +5814,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC15G3
             // 
-            this.txtGroupMemC15G3.Location = new System.Drawing.Point(175, 432);
+            this.txtGroupMemC15G3.Location = new System.Drawing.Point(73, 428);
             this.txtGroupMemC15G3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC15G3.Name = "txtGroupMemC15G3";
             this.txtGroupMemC15G3.Size = new System.Drawing.Size(28, 21);
@@ -5992,7 +5824,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC4G3
             // 
-            this.txtGroupMemC4G3.Location = new System.Drawing.Point(175, 146);
+            this.txtGroupMemC4G3.Location = new System.Drawing.Point(73, 142);
             this.txtGroupMemC4G3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC4G3.Name = "txtGroupMemC4G3";
             this.txtGroupMemC4G3.Size = new System.Drawing.Size(28, 21);
@@ -6002,7 +5834,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC7G3
             // 
-            this.txtGroupMemC7G3.Location = new System.Drawing.Point(175, 224);
+            this.txtGroupMemC7G3.Location = new System.Drawing.Point(73, 220);
             this.txtGroupMemC7G3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC7G3.Name = "txtGroupMemC7G3";
             this.txtGroupMemC7G3.Size = new System.Drawing.Size(28, 21);
@@ -6013,7 +5845,7 @@ namespace NumberProcessor_Global_2022
             // label52
             // 
             this.label52.AutoSize = true;
-            this.label52.Location = new System.Drawing.Point(275, 50);
+            this.label52.Location = new System.Drawing.Point(173, 46);
             this.label52.Name = "label52";
             this.label52.Size = new System.Drawing.Size(23, 15);
             this.label52.TabIndex = 21;
@@ -6021,7 +5853,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC18G2
             // 
-            this.txtGroupMemC18G2.Location = new System.Drawing.Point(141, 510);
+            this.txtGroupMemC18G2.Location = new System.Drawing.Point(39, 506);
             this.txtGroupMemC18G2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC18G2.Name = "txtGroupMemC18G2";
             this.txtGroupMemC18G2.Size = new System.Drawing.Size(28, 21);
@@ -6033,7 +5865,7 @@ namespace NumberProcessor_Global_2022
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(210, 50);
+            this.label10.Location = new System.Drawing.Point(108, 46);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(23, 15);
             this.label10.TabIndex = 21;
@@ -6041,7 +5873,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC10G2
             // 
-            this.txtGroupMemC10G2.Location = new System.Drawing.Point(141, 302);
+            this.txtGroupMemC10G2.Location = new System.Drawing.Point(39, 298);
             this.txtGroupMemC10G2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC10G2.Name = "txtGroupMemC10G2";
             this.txtGroupMemC10G2.Size = new System.Drawing.Size(28, 21);
@@ -6052,7 +5884,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC1G3
             // 
-            this.txtGroupMemC1G3.Location = new System.Drawing.Point(175, 68);
+            this.txtGroupMemC1G3.Location = new System.Drawing.Point(73, 64);
             this.txtGroupMemC1G3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC1G3.Name = "txtGroupMemC1G3";
             this.txtGroupMemC1G3.Size = new System.Drawing.Size(28, 21);
@@ -6062,7 +5894,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC15G2
             // 
-            this.txtGroupMemC15G2.Location = new System.Drawing.Point(141, 432);
+            this.txtGroupMemC15G2.Location = new System.Drawing.Point(39, 428);
             this.txtGroupMemC15G2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC15G2.Name = "txtGroupMemC15G2";
             this.txtGroupMemC15G2.Size = new System.Drawing.Size(28, 21);
@@ -6073,7 +5905,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC4G2
             // 
-            this.txtGroupMemC4G2.Location = new System.Drawing.Point(141, 146);
+            this.txtGroupMemC4G2.Location = new System.Drawing.Point(39, 142);
             this.txtGroupMemC4G2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC4G2.Name = "txtGroupMemC4G2";
             this.txtGroupMemC4G2.Size = new System.Drawing.Size(28, 21);
@@ -6084,7 +5916,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC7G2
             // 
-            this.txtGroupMemC7G2.Location = new System.Drawing.Point(141, 224);
+            this.txtGroupMemC7G2.Location = new System.Drawing.Point(39, 220);
             this.txtGroupMemC7G2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC7G2.Name = "txtGroupMemC7G2";
             this.txtGroupMemC7G2.Size = new System.Drawing.Size(28, 21);
@@ -6095,7 +5927,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC18G1
             // 
-            this.txtGroupMemC18G1.Location = new System.Drawing.Point(107, 510);
+            this.txtGroupMemC18G1.Location = new System.Drawing.Point(5, 506);
             this.txtGroupMemC18G1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC18G1.Name = "txtGroupMemC18G1";
             this.txtGroupMemC18G1.Size = new System.Drawing.Size(28, 21);
@@ -6106,7 +5938,7 @@ namespace NumberProcessor_Global_2022
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(176, 50);
+            this.label9.Location = new System.Drawing.Point(74, 46);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(23, 15);
             this.label9.TabIndex = 19;
@@ -6114,7 +5946,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC10G1
             // 
-            this.txtGroupMemC10G1.Location = new System.Drawing.Point(107, 302);
+            this.txtGroupMemC10G1.Location = new System.Drawing.Point(5, 298);
             this.txtGroupMemC10G1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC10G1.Name = "txtGroupMemC10G1";
             this.txtGroupMemC10G1.Size = new System.Drawing.Size(28, 21);
@@ -6124,7 +5956,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC1G2
             // 
-            this.txtGroupMemC1G2.Location = new System.Drawing.Point(141, 68);
+            this.txtGroupMemC1G2.Location = new System.Drawing.Point(39, 64);
             this.txtGroupMemC1G2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC1G2.Name = "txtGroupMemC1G2";
             this.txtGroupMemC1G2.Size = new System.Drawing.Size(28, 21);
@@ -6132,18 +5964,9 @@ namespace NumberProcessor_Global_2022
             this.txtGroupMemC1G2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.txtGroupMemC1G2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             // 
-            // label43
-            // 
-            this.label43.AutoSize = true;
-            this.label43.Location = new System.Drawing.Point(9, 518);
-            this.label43.Name = "label43";
-            this.label43.Size = new System.Drawing.Size(77, 15);
-            this.label43.TabIndex = 15;
-            this.label43.Text = "Criteria #18 :";
-            // 
             // txtGroupMemC4G1
             // 
-            this.txtGroupMemC4G1.Location = new System.Drawing.Point(107, 146);
+            this.txtGroupMemC4G1.Location = new System.Drawing.Point(5, 142);
             this.txtGroupMemC4G1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC4G1.Name = "txtGroupMemC4G1";
             this.txtGroupMemC4G1.Size = new System.Drawing.Size(28, 21);
@@ -6151,18 +5974,9 @@ namespace NumberProcessor_Global_2022
             this.txtGroupMemC4G1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.txtGroupMemC4G1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             // 
-            // label37
-            // 
-            this.label37.AutoSize = true;
-            this.label37.Location = new System.Drawing.Point(9, 310);
-            this.label37.Name = "label37";
-            this.label37.Size = new System.Drawing.Size(77, 15);
-            this.label37.TabIndex = 15;
-            this.label37.Text = "Criteria #10 :";
-            // 
             // txtGroupMemC15G1
             // 
-            this.txtGroupMemC15G1.Location = new System.Drawing.Point(107, 432);
+            this.txtGroupMemC15G1.Location = new System.Drawing.Point(5, 428);
             this.txtGroupMemC15G1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC15G1.Name = "txtGroupMemC15G1";
             this.txtGroupMemC15G1.Size = new System.Drawing.Size(28, 21);
@@ -6173,7 +5987,7 @@ namespace NumberProcessor_Global_2022
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(142, 50);
+            this.label8.Location = new System.Drawing.Point(40, 46);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(23, 15);
             this.label8.TabIndex = 17;
@@ -6181,7 +5995,7 @@ namespace NumberProcessor_Global_2022
             // 
             // txtGroupMemC7G1
             // 
-            this.txtGroupMemC7G1.Location = new System.Drawing.Point(107, 224);
+            this.txtGroupMemC7G1.Location = new System.Drawing.Point(5, 220);
             this.txtGroupMemC7G1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC7G1.Name = "txtGroupMemC7G1";
             this.txtGroupMemC7G1.Size = new System.Drawing.Size(28, 21);
@@ -6189,36 +6003,9 @@ namespace NumberProcessor_Global_2022
             this.txtGroupMemC7G1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.txtGroupMemC7G1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             // 
-            // label42
-            // 
-            this.label42.AutoSize = true;
-            this.label42.Location = new System.Drawing.Point(9, 440);
-            this.label42.Name = "label42";
-            this.label42.Size = new System.Drawing.Size(77, 15);
-            this.label42.TabIndex = 15;
-            this.label42.Text = "Criteria #15 :";
-            // 
-            // label33
-            // 
-            this.label33.AutoSize = true;
-            this.label33.Location = new System.Drawing.Point(9, 154);
-            this.label33.Name = "label33";
-            this.label33.Size = new System.Drawing.Size(76, 15);
-            this.label33.TabIndex = 15;
-            this.label33.Text = "Criteria # 4  :";
-            // 
-            // label36
-            // 
-            this.label36.AutoSize = true;
-            this.label36.Location = new System.Drawing.Point(9, 232);
-            this.label36.Name = "label36";
-            this.label36.Size = new System.Drawing.Size(76, 15);
-            this.label36.TabIndex = 15;
-            this.label36.Text = "Criteria # 7  :";
-            // 
             // txtGroupMemC1G1
             // 
-            this.txtGroupMemC1G1.Location = new System.Drawing.Point(107, 68);
+            this.txtGroupMemC1G1.Location = new System.Drawing.Point(5, 64);
             this.txtGroupMemC1G1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtGroupMemC1G1.Name = "txtGroupMemC1G1";
             this.txtGroupMemC1G1.Size = new System.Drawing.Size(28, 21);
@@ -6226,19 +6013,10 @@ namespace NumberProcessor_Global_2022
             this.txtGroupMemC1G1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.txtGroupMemC1G1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_KeyDown);
             // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(9, 76);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(76, 15);
-            this.label7.TabIndex = 15;
-            this.label7.Text = "Criteria # 1  :";
-            // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(108, 50);
+            this.label6.Location = new System.Drawing.Point(6, 46);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(23, 15);
             this.label6.TabIndex = 14;
@@ -6263,8 +6041,6 @@ namespace NumberProcessor_Global_2022
             this.tabPage2.Controls.Add(this.label86);
             this.tabPage2.Controls.Add(this.panel2);
             this.tabPage2.Controls.Add(this.panel1);
-            this.tabPage2.Controls.Add(this.txtMatchCounter);
-            this.tabPage2.Controls.Add(this.btnClearAll);
             this.tabPage2.Controls.Add(this.label50);
             this.tabPage2.Controls.Add(this.lbMatchingNumbers);
             this.tabPage2.Controls.Add(this.grpGenerator);
@@ -6272,14 +6048,14 @@ namespace NumberProcessor_Global_2022
             this.tabPage2.Location = new System.Drawing.Point(4, 24);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(1443, 930);
+            this.tabPage2.Size = new System.Drawing.Size(1306, 918);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Generator N Counter";
             // 
             // label88
             // 
             this.label88.AutoSize = true;
-            this.label88.Location = new System.Drawing.Point(1282, 28);
+            this.label88.Location = new System.Drawing.Point(1184, 28);
             this.label88.Name = "label88";
             this.label88.Size = new System.Drawing.Size(89, 15);
             this.label88.TabIndex = 140;
@@ -6288,7 +6064,7 @@ namespace NumberProcessor_Global_2022
             // label87
             // 
             this.label87.AutoSize = true;
-            this.label87.Location = new System.Drawing.Point(1129, 28);
+            this.label87.Location = new System.Drawing.Point(1052, 28);
             this.label87.Name = "label87";
             this.label87.Size = new System.Drawing.Size(79, 15);
             this.label87.TabIndex = 140;
@@ -6297,23 +6073,23 @@ namespace NumberProcessor_Global_2022
             // panel3
             // 
             this.panel3.Controls.Add(this.txtDaily);
-            this.panel3.Location = new System.Drawing.Point(1130, 68);
+            this.panel3.Location = new System.Drawing.Point(1047, 68);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(124, 700);
             this.panel3.TabIndex = 138;
             // 
             // txtDaily
             // 
-            this.txtDaily.Location = new System.Drawing.Point(2, 3);
+            this.txtDaily.Location = new System.Drawing.Point(2, 1);
             this.txtDaily.Multiline = true;
             this.txtDaily.Name = "txtDaily";
-            this.txtDaily.Size = new System.Drawing.Size(119, 688);
+            this.txtDaily.Size = new System.Drawing.Size(119, 694);
             this.txtDaily.TabIndex = 0;
             // 
             // label86
             // 
             this.label86.AutoSize = true;
-            this.label86.Location = new System.Drawing.Point(951, 28);
+            this.label86.Location = new System.Drawing.Point(905, 28);
             this.label86.Name = "label86";
             this.label86.Size = new System.Drawing.Size(81, 15);
             this.label86.TabIndex = 139;
@@ -6322,62 +6098,39 @@ namespace NumberProcessor_Global_2022
             // panel2
             // 
             this.panel2.Controls.Add(this.txtBase);
-            this.panel2.Location = new System.Drawing.Point(1272, 68);
+            this.panel2.Location = new System.Drawing.Point(1176, 67);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(124, 700);
+            this.panel2.Size = new System.Drawing.Size(124, 698);
             this.panel2.TabIndex = 138;
             // 
             // txtBase
             // 
-            this.txtBase.Location = new System.Drawing.Point(3, 3);
+            this.txtBase.Location = new System.Drawing.Point(3, 5);
             this.txtBase.Multiline = true;
             this.txtBase.Name = "txtBase";
-            this.txtBase.Size = new System.Drawing.Size(118, 684);
+            this.txtBase.Size = new System.Drawing.Size(118, 690);
             this.txtBase.TabIndex = 0;
             // 
             // panel1
             // 
             this.panel1.Controls.Add(this.txtPowa);
-            this.panel1.Location = new System.Drawing.Point(950, 67);
+            this.panel1.Location = new System.Drawing.Point(894, 66);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(147, 701);
             this.panel1.TabIndex = 137;
             // 
             // txtPowa
             // 
-            this.txtPowa.Location = new System.Drawing.Point(4, 3);
+            this.txtPowa.Location = new System.Drawing.Point(4, 5);
             this.txtPowa.Multiline = true;
             this.txtPowa.Name = "txtPowa";
-            this.txtPowa.Size = new System.Drawing.Size(140, 685);
+            this.txtPowa.Size = new System.Drawing.Size(140, 690);
             this.txtPowa.TabIndex = 0;
-            // 
-            // txtMatchCounter
-            // 
-            this.txtMatchCounter.BackColor = System.Drawing.Color.White;
-            this.txtMatchCounter.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtMatchCounter.Location = new System.Drawing.Point(778, 713);
-            this.txtMatchCounter.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.txtMatchCounter.Name = "txtMatchCounter";
-            this.txtMatchCounter.ReadOnly = true;
-            this.txtMatchCounter.Size = new System.Drawing.Size(141, 21);
-            this.txtMatchCounter.TabIndex = 136;
-            this.txtMatchCounter.TabStop = false;
-            this.txtMatchCounter.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
-            // 
-            // btnClearAll
-            // 
-            this.btnClearAll.Location = new System.Drawing.Point(778, 743);
-            this.btnClearAll.Name = "btnClearAll";
-            this.btnClearAll.Size = new System.Drawing.Size(141, 25);
-            this.btnClearAll.TabIndex = 135;
-            this.btnClearAll.Text = "Clear All";
-            this.btnClearAll.UseVisualStyleBackColor = true;
-            this.btnClearAll.Click += new System.EventHandler(this.btnCountingStart_Click);
             // 
             // label50
             // 
             this.label50.AutoSize = true;
-            this.label50.Location = new System.Drawing.Point(786, 28);
+            this.label50.Location = new System.Drawing.Point(755, 28);
             this.label50.Name = "label50";
             this.label50.Size = new System.Drawing.Size(115, 15);
             this.label50.TabIndex = 94;
@@ -6388,11 +6141,11 @@ namespace NumberProcessor_Global_2022
             this.lbMatchingNumbers.ForeColor = System.Drawing.SystemColors.InfoText;
             this.lbMatchingNumbers.FormattingEnabled = true;
             this.lbMatchingNumbers.ItemHeight = 15;
-            this.lbMatchingNumbers.Location = new System.Drawing.Point(778, 70);
+            this.lbMatchingNumbers.Location = new System.Drawing.Point(749, 65);
             this.lbMatchingNumbers.MultiColumn = true;
             this.lbMatchingNumbers.Name = "lbMatchingNumbers";
             this.lbMatchingNumbers.SelectionMode = System.Windows.Forms.SelectionMode.MultiSimple;
-            this.lbMatchingNumbers.Size = new System.Drawing.Size(141, 619);
+            this.lbMatchingNumbers.Size = new System.Drawing.Size(141, 694);
             this.lbMatchingNumbers.Sorted = true;
             this.lbMatchingNumbers.TabIndex = 95;
             this.lbMatchingNumbers.SelectedIndexChanged += new System.EventHandler(this.lbMatchingNumbers_SelectedIndexChanged);
@@ -8620,11 +8373,12 @@ namespace NumberProcessor_Global_2022
             // FrmMain
             // 
             this.AllowDrop = true;
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Inherit;
+            this.AutoScroll = true;
             this.AutoSize = true;
+            this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(227)))), ((int)(((byte)(227)))));
-            this.ClientSize = new System.Drawing.Size(1518, 987);
+            this.ClientSize = new System.Drawing.Size(1350, 729);
             this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.tabControl1);
             this.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -8967,13 +8721,11 @@ namespace NumberProcessor_Global_2022
         private System.Windows.Forms.TextBox txtGroupMemC3G3;
         private System.Windows.Forms.TextBox txtGroupMemC3G2;
         private System.Windows.Forms.TextBox txtGroupMemC3G1;
-        private System.Windows.Forms.Label label13;
         private System.Windows.Forms.TextBox txtGroupMemC2G5;
         private System.Windows.Forms.TextBox txtGroupMemC2G4;
         private System.Windows.Forms.TextBox txtGroupMemC2G3;
         private System.Windows.Forms.TextBox txtGroupMemC2G2;
         private System.Windows.Forms.TextBox txtGroupMemC2G1;
-        private System.Windows.Forms.Label label12;
         private System.Windows.Forms.TextBox txtGroupMemC1G5;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.TextBox txtGroupMemC1G4;
@@ -8982,7 +8734,6 @@ namespace NumberProcessor_Global_2022
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.TextBox txtGroupMemC1G1;
-        private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.CheckBox chkGroupMemberFilter;
         private System.Windows.Forms.TextBox txtGroupMemC20G5;
@@ -9013,16 +8764,10 @@ namespace NumberProcessor_Global_2022
         private System.Windows.Forms.TextBox txtGroupMemC9G2;
         private System.Windows.Forms.TextBox txtGroupMemC14G1;
         private System.Windows.Forms.TextBox txtGroupMemC6G1;
-        private System.Windows.Forms.Label label49;
-        private System.Windows.Forms.Label label41;
         private System.Windows.Forms.TextBox txtGroupMemC17G1;
         private System.Windows.Forms.TextBox txtGroupMemC9G1;
-        private System.Windows.Forms.Label label48;
-        private System.Windows.Forms.Label label35;
         private System.Windows.Forms.TextBox txtGroupMemC19G5;
         private System.Windows.Forms.TextBox txtGroupMemC11G5;
-        private System.Windows.Forms.Label label47;
-        private System.Windows.Forms.Label label40;
         private System.Windows.Forms.TextBox txtGroupMemC13G5;
         private System.Windows.Forms.TextBox txtGroupMemC5G5;
         private System.Windows.Forms.TextBox txtGroupMemC19G4;
@@ -9049,16 +8794,10 @@ namespace NumberProcessor_Global_2022
         private System.Windows.Forms.TextBox txtGroupMemC8G2;
         private System.Windows.Forms.TextBox txtGroupMemC13G1;
         private System.Windows.Forms.TextBox txtGroupMemC5G1;
-        private System.Windows.Forms.Label label46;
-        private System.Windows.Forms.Label label39;
         private System.Windows.Forms.TextBox txtGroupMemC16G1;
         private System.Windows.Forms.TextBox txtGroupMemC8G1;
-        private System.Windows.Forms.Label label45;
-        private System.Windows.Forms.Label label34;
         private System.Windows.Forms.TextBox txtGroupMemC18G5;
         private System.Windows.Forms.TextBox txtGroupMemC10G5;
-        private System.Windows.Forms.Label label44;
-        private System.Windows.Forms.Label label38;
         private System.Windows.Forms.TextBox txtGroupMemC4G5;
         private System.Windows.Forms.TextBox txtGroupMemC15G5;
         private System.Windows.Forms.TextBox txtGroupMemC7G5;
@@ -9079,17 +8818,10 @@ namespace NumberProcessor_Global_2022
         private System.Windows.Forms.TextBox txtGroupMemC7G2;
         private System.Windows.Forms.TextBox txtGroupMemC18G1;
         private System.Windows.Forms.TextBox txtGroupMemC10G1;
-        private System.Windows.Forms.Label label43;
         private System.Windows.Forms.TextBox txtGroupMemC4G1;
-        private System.Windows.Forms.Label label37;
         private System.Windows.Forms.TextBox txtGroupMemC15G1;
         private System.Windows.Forms.TextBox txtGroupMemC7G1;
-        private System.Windows.Forms.Label label42;
-        private System.Windows.Forms.Label label33;
-        private System.Windows.Forms.Label label36;
         private System.Windows.Forms.Label label50;
-        private System.Windows.Forms.TextBox txtMatchCounter;
-        private System.Windows.Forms.Button btnClearAll;
         private System.Windows.Forms.TextBox txtGroupMemC1G2;
         private System.Windows.Forms.CheckBox chkSummationFilter;
         private System.Windows.Forms.Label label51;

@@ -1,7 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\OneDrive\\Desktop\\NumberProcessor_International_Edition\\NumberProcessor_International\\",
-  "Documents": [],
+  "WorkspaceRootPath": "G:\\OneDrive\\Desktop\\New folder\\PPHNumberProcessor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB4363F-0C88-499D-B8C4-4149B552FD0C}|NumberProcessor_Global_Edition.csproj|G:\\OneDrive\\Desktop\\New folder\\PPHNumberProcessor\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB4363F-0C88-499D-B8C4-4149B552FD0C}|NumberProcessor_Global_Edition.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB4363F-0C88-499D-B8C4-4149B552FD0C}|NumberProcessor_Global_Edition.csproj|g:\\onedrive\\desktop\\new folder\\pphnumberprocessor\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAB4363F-0C88-499D-B8C4-4149B552FD0C}|NumberProcessor_Global_Edition.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB4363F-0C88-499D-B8C4-4149B552FD0C}|NumberProcessor_Global_Edition.csproj|G:\\OneDrive\\Desktop\\New folder\\PPHNumberProcessor\\frmdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAB4363F-0C88-499D-B8C4-4149B552FD0C}|NumberProcessor_Global_Edition.csproj|solutionrelative:frmdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +31,42 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "G:\\OneDrive\\Desktop\\New folder\\PPHNumberProcessor\\FrmMain.cs",
+              "RelativeDocumentMoniker": "FrmMain.cs",
+              "ToolTip": "G:\\OneDrive\\Desktop\\New folder\\PPHNumberProcessor\\FrmMain.cs",
+              "RelativeToolTip": "FrmMain.cs",
+              "ViewState": "AQIAAI4bAAAAAAAAAAAmwLAbAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T00:26:29.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "G:\\OneDrive\\Desktop\\New folder\\PPHNumberProcessor\\FrmMain.cs",
+              "RelativeDocumentMoniker": "FrmMain.cs",
+              "ToolTip": "G:\\OneDrive\\Desktop\\New folder\\PPHNumberProcessor\\FrmMain.cs [Design]",
+              "RelativeToolTip": "FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T23:45:42.791Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmDialog.cs [Design]",
+              "DocumentMoniker": "G:\\OneDrive\\Desktop\\New folder\\PPHNumberProcessor\\FrmDialog.cs",
+              "RelativeDocumentMoniker": "FrmDialog.cs",
+              "ToolTip": "G:\\OneDrive\\Desktop\\New folder\\PPHNumberProcessor\\FrmDialog.cs [Design]",
+              "RelativeToolTip": "FrmDialog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T23:44:06.244Z"
             }
           ]
         }
